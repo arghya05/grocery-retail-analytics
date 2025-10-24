@@ -1,0 +1,287 @@
+====================================================================================================
+                              STORE MANAGER INSIGHTS DASHBOARD
+====================================================================================================
+
+Loading grocery dataset...
+✓ Loaded 1,869,621 transactions
+  Period: 2022-01-01 to 2023-12-31
+  Total Revenue: ₹682,281,733.16
+
+====================================================================================================
+
+📊 1. SALES PERFORMANCE ANALYSIS
+====================================================================================================
+
+📈 KEY METRICS:
+   Total Revenue:        ₹682,281,733.16
+   Total Transactions:   1,869,621
+   Avg Transaction:      ₹364.93
+   Total Items Sold:     6,882,440
+   Avg Items/Transaction: 3.68
+
+🏆 TOP 5 CATEGORIES BY REVENUE:
+   1. Beverages                 ₹163,476,238.05 (23.96%) - 240,662.0 trans
+   2. Staples & Grains          ₹88,134,653.48 (12.92%) - 142,136.0 trans
+   3. Fresh Produce             ₹81,757,628.89 (11.98%) - 377,061.0 trans
+   4. Cooking Essentials        ₹75,394,213.35 (11.05%) - 229,501.0 trans
+   5. Dairy Products            ₹62,172,250.62 ( 9.11%) - 176,481.0 trans
+
+💰 TOP 10 PRODUCTS BY REVENUE:
+    1. Coffee 200g                    ₹58,503,271.39 ( 8.57%) - 173,301.0 units
+    2. Cooking Oil 1L                 ₹42,500,128.01 ( 6.23%) - 204,147.0 units
+    3. Rice 10kg                      ₹31,217,031.21 ( 4.58%) - 49,681.0 units
+    4. Tea 250g                       ₹28,128,820.79 ( 4.12%) - 194,949.0 units
+    5. Apple 1kg                      ₹27,811,221.00 ( 4.08%) - 169,697.0 units
+    6. Basmati Rice 5kg               ₹24,773,253.20 ( 3.63%) - 56,350.0 units
+    7. Detergent 1kg                  ₹23,469,790.37 ( 3.44%) - 113,328.0 units
+    8. Ice Cream 500ml                ₹22,847,458.70 ( 3.35%) - 136,132.0 units
+    9. Ghee 500ml                     ₹22,350,948.85 ( 3.28%) - 78,703.0 units
+   10. Energy Drink 250ml             ₹21,903,086.62 ( 3.21%) - 151,434.0 units
+
+📅 MONTHLY REVENUE TREND:
+   January      ₹58,721,624.64  (157,580 trans, Avg: ₹372.65)
+   February     ₹53,368,922.12  (144,447 trans, Avg: ₹369.47)
+   March        ₹56,864,499.50  (159,348 trans, Avg: ₹356.86)
+   April        ₹54,142,678.33  (152,201 trans, Avg: ₹355.73)
+   May          ₹63,320,770.00  (158,419 trans, Avg: ₹399.70)
+   June         ₹61,867,839.38  (156,137 trans, Avg: ₹396.24)
+   July         ₹57,501,547.20  (159,309 trans, Avg: ₹360.94)
+   August       ₹56,779,596.59  (158,822 trans, Avg: ₹357.50)
+   September    ₹54,563,869.60  (154,000 trans, Avg: ₹354.31)
+   October      ₹55,432,663.11  (156,179 trans, Avg: ₹354.93)
+   November     ₹54,124,910.96  (154,442 trans, Avg: ₹350.45)
+   December     ₹55,592,811.73  (158,737 trans, Avg: ₹350.22)
+
+   💚 BEST MONTH:  May - ₹63,320,770.00
+   ❌ WORST MONTH: February - ₹53,368,922.12
+   📊 Variance: 18.6%
+
+====================================================================================================
+👥 2. CUSTOMER BEHAVIOR INSIGHTS
+====================================================================================================
+
+🎯 CUSTOMER SEGMENTATION:
+
+   New Customers:
+      - Count: 94,823.0 (47.4% of base)
+      - Revenue: ₹40,481,128.76 (5.9% of total)
+      - Avg Transaction Value: ₹330.20
+      - Avg Visits: 1.29
+
+   Occasional Customers:
+      - Count: 179,083.0 (89.6% of base)
+      - Revenue: ₹118,923,071.90 (17.4% of total)
+      - Avg Transaction Value: ₹289.26
+      - Avg Visits: 2.30
+
+   Premium Customers:
+      - Count: 186,391.0 (93.2% of base)
+      - Revenue: ₹218,845,208.79 (32.1% of total)
+      - Avg Transaction Value: ₹417.93
+      - Avg Visits: 2.81
+
+   Regular Customers:
+      - Count: 196,242.0 (98.1% of base)
+      - Revenue: ₹304,032,323.71 (44.6% of total)
+      - Avg Transaction Value: ₹374.31
+      - Avg Visits: 4.14
+
+⭐ TOP 10 CUSTOMERS (VIP):
+    1. CUST_135599 (Regular   ) - ₹ 15,322.75 ( 16 visits)
+    2. CUST_168150 (Regular   ) - ₹ 15,315.23 ( 16 visits)
+    3. CUST_075385 (Occasional) - ₹ 14,780.37 ( 18 visits)
+    4. CUST_076186 (Regular   ) - ₹ 14,287.80 ( 15 visits)
+    5. CUST_098534 (New       ) - ₹ 14,191.68 ( 18 visits)
+    6. CUST_085038 (Occasional) - ₹ 13,925.65 ( 19 visits)
+    7. CUST_076559 (Premium   ) - ₹ 13,823.98 ( 22 visits)
+    8. CUST_197278 (Occasional) - ₹ 13,523.79 ( 19 visits)
+    9. CUST_119012 (Occasional) - ₹ 13,409.08 ( 14 visits)
+   10. CUST_075560 (Premium   ) - ₹ 13,350.07 ( 15 visits)
+
+👤 DEMOGRAPHICS - AGE GROUP ANALYSIS:
+   26-35      ₹239,274,306.91 (35.07%) - 192,389.0 customers, Avg: ₹365.34
+   36-45      ₹204,445,702.09 (29.96%) - 187,734.0 customers, Avg: ₹364.59
+   46-60      ₹136,340,355.05 (19.98%) - 169,370.0 customers, Avg: ₹364.54
+   18-25      ₹68,086,173.05 ( 9.98%) - 121,314.0 customers, Avg: ₹364.67
+   60+        ₹34,135,196.06 ( 5.00%) - 74,547.0 customers, Avg: ₹366.23
+
+====================================================================================================
+📦 3. INVENTORY & STOCK MANAGEMENT
+====================================================================================================
+
+🚀 FAST-MOVING ITEMS (Top 10 by Volume):
+    1. Cooking Oil 1L                 204,147 units (279.7/day) - 47,731 trans
+    2. Tea 250g                       194,949 units (267.1/day) - 45,677 trans
+    3. Soft Drink 2L                  184,608 units (252.9/day) - 43,157 trans
+    4. Bread 400g                     182,216 units (249.6/day) - 38,300 trans
+    5. Tomato 1kg                     181,111 units (248.1/day) - 50,215 trans
+    6. Onion 1kg                      180,922 units (247.8/day) - 49,927 trans
+    7. Potato 1kg                     177,027 units (242.5/day) - 48,907 trans
+    8. Coffee 200g                    173,301 units (237.4/day) - 40,601 trans
+    9. Banana 1 dozen                 171,798 units (235.3/day) - 47,615 trans
+   10. Apple 1kg                      169,697 units (232.5/day) - 46,790 trans
+
+🐌 SLOW-MOVING ITEMS (Bottom 10 by Volume):
+    1. Rajma 500g                     33,650 units (46.10/day) - 15,892 trans
+    2. Chickpeas 500g                 35,697 units (48.90/day) - 16,864 trans
+    3. Face Cream 50g                 36,172 units (49.55/day) - 8,507 trans
+    4. Frozen Paneer 200g             36,198 units (49.59/day) - 8,448 trans
+    5. Moong Dal 1kg                  40,223 units (55.10/day) - 18,983 trans
+    6. Toor Dal 1kg                   40,258 units (55.15/day) - 19,016 trans
+    7. Frozen Corn 400g               44,890 units (61.49/day) - 10,565 trans
+    8. Body Wash 250ml                44,944 units (61.57/day) - 10,464 trans
+    9. Wheat Flour 5kg                45,089 units (61.77/day) - 21,277 trans
+   10. Rice 10kg                      49,681 units (68.06/day) - 23,501 trans
+
+🥬 PERISHABLE ITEMS - WASTAGE RISK:
+   Bakery               Avg Expiry: 2.0 days, Avg Discount: 25.0% 🔴 HIGH
+   Dairy Products       Avg Expiry: 4.0 days, Avg Discount: 16.0% 🟡 MEDIUM
+   Fresh Produce        Avg Expiry: 3.0 days, Avg Discount: 21.1% 🔴 HIGH
+   Frozen Foods         Avg Expiry: 45.4 days, Avg Discount: 4.3% 🟢 LOW
+
+📊 STOCK TURNOVER RATE:
+   Fresh Produce             1,361,979 units total (1865.7 units/day)
+   Beverages                 1,027,712 units total (1407.8 units/day)
+   Cooking Essentials        979,800 units total (1342.2 units/day)
+   Snacks & Confectionery    899,562 units total (1232.3 units/day)
+   Dairy Products            616,617 units total ( 844.7 units/day)
+   Bakery                    559,352 units total ( 766.2 units/day)
+   Household Items           461,741 units total ( 632.5 units/day)
+   Frozen Foods              376,718 units total ( 516.1 units/day)
+   Staples & Grains          300,948 units total ( 412.3 units/day)
+   Personal Care             298,011 units total ( 408.2 units/day)
+
+====================================================================================================
+💵 4. PRICING & PROMOTIONS EFFECTIVENESS
+====================================================================================================
+
+🎁 DISCOUNT IMPACT ANALYSIS:
+   No Discount (0-5%)     808,353.0 trans (43.24%) - ₹330,518,691.36 (48.44%), Avg Qty: 3.36
+   Low (5-10%)            167,515.0 trans ( 8.96%) - ₹77,960,965.97 (11.43%), Avg Qty: 4.04
+   Medium (10-20%)        592,723.0 trans (31.70%) - ₹203,063,327.03 (29.76%), Avg Qty: 3.88
+   High (20-30%)          13,030.0 trans ( 0.70%) - ₹4,563,936.07 ( 0.67%), Avg Qty: 3.95
+   Very High (30%+)       288,000.0 trans (15.40%) - ₹66,174,812.73 ( 9.70%), Avg Qty: 3.95
+
+📢 PROMOTION EFFECTIVENESS:
+   With Promotion:    301,030 trans (16.10%) - ₹70,738,748.80 - Avg: ₹234.99
+   Without Promotion: 1,568,591 trans (83.90%) - ₹611,542,984.36 - Avg: ₹389.87
+
+   💡 Insight: Promotions increase avg transaction by ₹-154.88
+
+📅 WEEKEND vs WEEKDAY PERFORMANCE:
+   Weekend:  ₹173,178,473.15 (460,555 trans) - Avg: ₹376.02
+   Weekday:  ₹509,103,260.01 (1,409,066 trans) - Avg: ₹361.31
+   💡 Weekend uplift: 4.1% per transaction
+
+====================================================================================================
+⚙️  5. OPERATIONAL EFFICIENCY
+====================================================================================================
+
+🕐 HOURLY TRAFFIC PATTERN:
+   Early Morning (6-9 AM)    186,919.0 trans (10.00%) - ₹ 437.20 avg - 202s checkout
+   Morning (9-12 PM)         373,704.0 trans (19.99%) - ₹ 389.39 avg - 202s checkout
+   Afternoon (12-4 PM)       280,196.0 trans (14.99%) - ₹ 410.18 avg - 202s checkout
+   Evening (4-9 PM)          841,003.0 trans (44.98%) - ₹ 313.34 avg - 202s checkout
+   Night (9-11 PM)           187,799.0 trans (10.04%) - ₹ 407.87 avg - 202s checkout
+
+⏰ PEAK HOURS STAFFING RECOMMENDATION:
+   Top 5 busiest hours:
+      20:00 - 168,576.0 trans (9.02%) - Revenue: ₹52,771,752.35
+      19:00 - 168,449.0 trans (9.01%) - Revenue: ₹52,557,546.16
+      16:00 - 168,017.0 trans (8.99%) - Revenue: ₹52,596,613.43
+      18:00 - 168,014.0 trans (8.99%) - Revenue: ₹52,882,494.24
+      17:00 - 167,947.0 trans (8.98%) - Revenue: ₹52,707,852.40
+
+🏪 STORE PERFORMANCE COMPARISON:
+
+   Top 10 Stores by Revenue:
+   STR_002 (Hypermarket | East   ) - ₹14,921,921.76 ( 2.19%) - 37,725 trans
+   STR_014 (Supermarket | Central) - ₹14,861,102.61 ( 2.18%) - 37,520 trans
+   STR_007 (Hypermarket | North  ) - ₹14,794,823.91 ( 2.17%) - 37,535 trans
+   STR_013 (Supermarket | South  ) - ₹14,781,852.04 ( 2.17%) - 37,560 trans
+   STR_015 (Hypermarket | North  ) - ₹14,780,970.38 ( 2.17%) - 37,682 trans
+   STR_003 (Hypermarket | South  ) - ₹14,771,245.96 ( 2.16%) - 37,186 trans
+   STR_012 (Supermarket | Central) - ₹14,751,294.75 ( 2.16%) - 37,317 trans
+   STR_005 (Hypermarket | Central) - ₹14,714,521.50 ( 2.16%) - 37,174 trans
+   STR_006 (Supermarket | Central) - ₹14,703,859.28 ( 2.16%) - 37,328 trans
+   STR_001 (Hypermarket | North  ) - ₹14,683,173.85 ( 2.15%) - 37,253 trans
+
+   Bottom 5 Stores (Need Attention):
+   STR_046 (Hypermarket | South  ) - ₹12,738,563.36 ( 1.87%) - 37,376 trans
+   STR_038 (Express     | East   ) - ₹12,730,024.42 ( 1.87%) - 37,309 trans
+   STR_040 (Express     | South  ) - ₹12,724,725.93 ( 1.87%) - 37,292 trans
+   STR_047 (Supermarket | East   ) - ₹12,651,513.00 ( 1.85%) - 37,337 trans
+   STR_041 (Hypermarket | South  ) - ₹12,634,452.51 ( 1.85%) - 37,300 trans
+
+💳 PAYMENT METHOD PREFERENCES:
+   UPI             841,677.0 (45.02%) - ₹307,419,779.61
+   Card            467,161.0 (24.99%) - ₹170,400,869.89
+   Cash            280,910.0 (15.02%) - ₹102,356,217.64
+   Wallet          186,355.0 ( 9.97%) - ₹68,110,982.93
+   Credit          93,518.0 ( 5.00%) - ₹33,993,883.09
+
+====================================================================================================
+🌤️  6. EXTERNAL FACTORS IMPACT
+====================================================================================================
+
+🌿 SEASONAL PERFORMANCE:
+   Monsoon    ₹168,845,013.39 (24.75%) - 472,131.0 trans - Avg: ₹357.62
+   Spring     ₹111,007,177.83 (16.27%) - 311,549.0 trans - Avg: ₹356.31
+   Summer     ₹125,188,609.38 (18.35%) - 314,556.0 trans - Avg: ₹397.99
+   Winter     ₹277,240,932.56 (40.63%) - 771,385.0 trans - Avg: ₹359.41
+
+⛅ WEATHER IMPACT ON SALES:
+   Cloudy     583,959.0 trans (31.23%) - Avg: ₹ 362.68 - Qty: 3.68
+   Rainy      391,346.0 trans (20.93%) - Avg: ₹ 360.19 - Qty: 3.67
+   Stormy     62,464.0 trans ( 3.34%) - Avg: ₹ 362.11 - Qty: 3.69
+   Sunny      831,852.0 trans (44.49%) - Avg: ₹ 368.95 - Qty: 3.68
+
+🎉 HOLIDAY vs REGULAR DAY:
+   Holiday Days:  ₹13,036,300.20 ( 38,347 trans) - Avg: ₹339.96
+   Regular Days:  ₹669,245,432.96 (1,831,274 trans) - Avg: ₹365.45
+   💡 Holiday uplift: -7.0% per transaction
+
+====================================================================================================
+💡 7. KEY RECOMMENDATIONS FOR STORE MANAGERS
+====================================================================================================
+
+🎯 IMMEDIATE ACTIONS:
+
+1. INVENTORY OPTIMIZATION:
+   → Increase stock for top 10 fast-moving products (especially during peak hours)
+   → Review slow-moving items - consider clearance sales or discontinuation
+   → Monitor perishable items with <3 days expiry - implement aggressive discounting
+   → Adjust stock levels based on seasonal patterns (identified above)
+
+2. STAFFING OPTIMIZATION:
+   → Increase staff during Evening (4-9 PM) - handles 44.98% of daily traffic
+   → Reduce staff during low-traffic hours (Late Night, Early Morning)
+   → Weekend staffing needs 197% increase vs weekday
+
+3. PRICING & PROMOTIONS:
+   → Premium customers (186,391) contribute 32.1% revenue - offer exclusive deals
+   → Target occasional customers with personalized promotions
+   → Weather-based dynamic pricing (increase beverage prices on sunny days)
+   → Holiday preparation: stock up 2-3 weeks before major festivals
+
+4. CUSTOMER RETENTION:
+   → Focus on retaining Regular customers (they contribute 44.6% of revenue)
+   → Convert Occasional to Regular through loyalty programs
+   → Age group 26-35 is highest revenue - tailor marketing to this segment
+   → Top 10 VIP customers need personalized attention
+
+5. OPERATIONAL IMPROVEMENTS:
+   → Promote UPI/Card payments to reduce cash handling (currently 45.0% UPI)
+   → Optimize checkout process during peak hours (avg 202s checkout time)
+   → Review bottom 5 stores for improvement opportunities
+   → Ensure adequate stock of seasonal products before season starts
+
+6. CATEGORY MANAGEMENT:
+   → Top category (Beverages) needs premium shelf space
+   → Cross-sell complementary products (e.g., tea + biscuits, rice + dal)
+   → Organic products command 33% premium - expand range
+   → Monitor discount effectiveness - avoid over-discounting popular items
+
+====================================================================================================
+✅ ANALYSIS COMPLETE - Review insights and implement recommendations
+====================================================================================================
