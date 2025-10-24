@@ -1,0 +1,51 @@
+product_id,product_name,category,KPI_Category,Total_Revenue,Total_Transactions,Total_Quantity_Sold,Avg_Discount_%
+PRD_00023,Coffee 200g,Beverages,Product Performance,58503271.39,40601,173301,3.37
+PRD_00034,Cooking Oil 1L,Cooking Essentials,Product Performance,42500128.01,47731,204147,3.32
+PRD_00002,Rice 10kg,Staples & Grains,Product Performance,31217031.21,23501,49681,3.34
+PRD_00022,Tea 250g,Beverages,Product Performance,28128820.79,45677,194949,3.36
+PRD_00018,Apple 1kg,Fresh Produce,Product Performance,27811221.0,46790,169697,21.11
+PRD_00001,Basmati Rice 5kg,Staples & Grains,Product Performance,24773253.2,26603,56350,3.32
+PRD_00045,Detergent 1kg,Household Items,Product Performance,23469790.37,53509,113328,3.34
+PRD_00055,Ice Cream 500ml,Frozen Foods,Product Performance,22847458.7,31582,136132,4.34
+PRD_00013,Ghee 500ml,Dairy Products,Product Performance,22350948.85,22611,78703,15.95
+PRD_00027,Energy Drink 250ml,Beverages,Product Performance,21903086.62,35551,151434,3.38
+PRD_00024,Soft Drink 2L,Beverages,Product Performance,19941819.41,43157,184608,3.34
+PRD_00026,Orange Juice 1L,Beverages,Product Performance,18257654.61,37454,159627,3.36
+PRD_00025,Mango Juice 1L,Beverages,Product Performance,16741585.23,38222,163793,3.35
+PRD_00020,Orange 1kg,Fresh Produce,Product Performance,14083889.59,44591,161028,21.08
+PRD_00012,Cheese 200g,Dairy Products,Product Performance,12524439.72,23377,82236,16.06
+PRD_00003,Wheat Flour 5kg,Staples & Grains,Product Performance,12471209.94,21277,45089,3.36
+PRD_00052,Cake 500g,Bakery,Product Performance,12357688.52,19130,91351,25.04
+PRD_00041,Shampoo 200ml,Personal Care,Product Performance,11921214.24,15801,67004,3.34
+PRD_00019,Banana 1 dozen,Fresh Produce,Product Performance,11284953.38,47615,171798,21.09
+PRD_00046,Dish Wash 500ml,Household Items,Product Performance,10501915.14,47835,101407,3.37
+PRD_00043,Body Wash 250ml,Personal Care,Product Performance,9849395.7,10464,44944,3.38
+PRD_00044,Face Cream 50g,Personal Care,Product Performance,9394792.94,8507,36172,3.44
+PRD_00049,Air Freshener 250ml,Household Items,Product Performance,9360201.78,34905,73837,3.28
+PRD_00008,Milk 1L,Dairy Products,Product Performance,9250707.71,43670,151783,15.91
+PRD_00048,Toilet Cleaner 500ml,Household Items,Product Performance,9199656.0,39618,83960,3.32
+PRD_00057,French Fries 400g,Frozen Foods,Product Performance,9105371.07,15819,67796,4.32
+PRD_00010,Paneer 200g,Dairy Products,Product Performance,8865194.82,27748,97018,16.05
+PRD_00036,Sugar 1kg,Cooking Essentials,Product Performance,8738706.2,39364,168123,3.3
+PRD_00047,Floor Cleaner 500ml,Household Items,Product Performance,8725062.18,42132,89209,3.34
+PRD_00014,Tomato 1kg,Fresh Produce,Product Performance,7922240.92,50215,181111,21.03
+PRD_00039,Garam Masala 50g,Cooking Essentials,Product Performance,7283458.57,32885,139996,3.33
+PRD_00005,Toor Dal 1kg,Staples & Grains,Product Performance,7082138.34,19016,40258,3.33
+PRD_00038,Chili Powder 100g,Cooking Essentials,Product Performance,6940132.31,35184,150026,3.34
+PRD_00015,Onion 1kg,Fresh Produce,Product Performance,6931726.62,49927,180922,21.1
+PRD_00032,Cookies 150g,Snacks & Confectionery,Product Performance,6800540.47,31938,135822,3.35
+PRD_00056,Frozen Peas 500g,Frozen Foods,Product Performance,6648972.75,21285,91702,4.31
+PRD_00042,Toothpaste 150g,Personal Care,Product Performance,6491381.13,16119,68691,3.43
+PRD_00031,Namkeen 200g,Snacks & Confectionery,Product Performance,6357337.55,33988,145083,3.33
+PRD_00004,Moong Dal 1kg,Staples & Grains,Product Performance,6069465.65,18983,40223,3.32
+PRD_00037,Turmeric 100g,Cooking Essentials,Product Performance,6059198.13,35050,149889,3.34
+PRD_00016,Potato 1kg,Fresh Produce,Product Performance,5816816.0,48907,177027,21.12
+PRD_00030,Chocolate 50g,Snacks & Confectionery,Product Performance,5776787.22,36146,154115,3.39
+PRD_00050,Bread 400g,Bakery,Product Performance,5741034.3,38300,182216,25.04
+PRD_00029,Biscuits 200g,Snacks & Confectionery,Product Performance,5186944.61,38742,165663,3.32
+PRD_00054,Pastries Pack of 4,Bakery,Product Performance,5123466.41,14978,71354,25.07
+PRD_00011,Butter 100g,Dairy Products,Product Performance,5054004.24,25861,90514,15.96
+PRD_00017,Carrot 500g,Fresh Produce,Product Performance,4516585.66,45864,165363,21.05
+PRD_00059,Frozen Paneer 200g,Frozen Foods,Product Performance,4398658.34,8448,36198,4.44
+PRD_00028,Potato Chips 100g,Snacks & Confectionery,Product Performance,4197395.71,39284,167917,3.33
+PRD_00009,Curd 400g,Dairy Products,Product Performance,4126955.28,33214,116363,16.12

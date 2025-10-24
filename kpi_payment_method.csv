@@ -1,0 +1,6 @@
+payment_method,KPI_Category,Total_Revenue,Avg_Transaction_Value,Total_Transactions
+Card,Payment Method,170400869.89,364.76,467161
+Cash,Payment Method,102356217.64,364.37,280910
+Credit,Payment Method,33993883.09,363.5,93518
+UPI,Payment Method,307419779.61,365.25,841677
+Wallet,Payment Method,68110982.93,365.49,186355

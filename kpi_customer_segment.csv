@@ -1,0 +1,5 @@
+customer_type,KPI_Category,Total_Revenue,Avg_Transaction_Value,Total_Transactions,Unique_Customers,Total_Loyalty_Points_Earned,Avg_Basket_Size
+New,Customer Segment,40481128.76,330.2,122596,94823,344186,8.08
+Occasional,Customer Segment,118923071.9,289.26,411130,179083,985026,5.92
+Premium,Customer Segment,218845208.79,417.93,523643,186391,4118263,20.91
+Regular,Customer Segment,304032323.71,374.31,812252,196242,5677395,12.33

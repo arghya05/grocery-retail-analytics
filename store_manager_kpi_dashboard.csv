@@ -1,0 +1,144 @@
+Section,KPI,Value,Numeric_Value
+Overall Business,Total Revenue,"$682,281,733.16",682281733.1600003
+Overall Business,Total Transactions,"1,869,621",1869621.0
+Overall Business,Total Items Sold,"6,882,440",6882440.0
+Overall Business,Average Transaction Value,$364.93,364.9305036475309
+Overall Business,Average Basket Size,13.04,13.042191973667391
+Overall Business,Average Items Per Transaction,3.68,3.681195279685027
+Overall Business,Total Discount Given,"$64,624,366.66",64624366.66499999
+Overall Business,Average Discount Percentage,9.52%,9.521012547462828
+Overall Business,Total Unique Customers,"199,981",199981.0
+Overall Business,Total Unique Products,59,59.0
+Overall Business,Total Stores,50,50.0
+Top Performers,Top Store by Revenue,"STR_002 - East Hypermarket ($14,921,921.76)",14921921.76
+Top Performers,Top Store #2 by Revenue,"STR_002 ($14,921,921.76)",14921921.76
+Top Performers,Top Store #3 by Revenue,"STR_014 ($14,861,102.61)",14861102.61
+Top Performers,Top Store #4 by Revenue,"STR_007 ($14,794,823.91)",14794823.91
+Top Performers,Top Category by Revenue,"Beverages ($163,476,238.05)",163476238.05
+Top Performers,Top Product #1,"Coffee 200g - Beverages ($58,503,271.39)",58503271.39
+Top Performers,Top Product #2,"Cooking Oil 1L - Cooking Essentials ($42,500,128.01)",42500128.01
+Top Performers,Top Product #3,"Rice 10kg - Staples & Grains ($31,217,031.21)",31217031.21
+Top Performers,Top Brand by Revenue,"Fortune ($94,019,955.87)",94019955.87
+Store Performance,Average Revenue Per Store,"$13,645,634.66",13645634.663200002
+Store Performance,Average Transactions Per Store,"37,392",37392.42
+Store Performance,Average Customers Per Store,"34,106",34106.26
+Store Performance,Hypermarket Stores Revenue,"$303,951,995.24",303951995.24
+Store Performance,Supermarket Stores Revenue,"$218,689,772.98",218689772.98
+Store Performance,Express Stores Revenue,"$159,639,964.94",159639964.94
+Store Performance,North Region Revenue,"$180,556,447.02",180556447.02
+Store Performance,East Region Revenue,"$171,875,866.67",171875866.67
+Store Performance,Central Region Revenue,"$141,627,046.02",141627046.02
+Store Performance,South Region Revenue,"$134,659,676.94",134659676.94
+Store Performance,West Region Revenue,"$53,562,696.51",53562696.51
+Category Performance,Beverages - Revenue,"$163,476,238.05",163476238.05
+Category Performance,Beverages - Transactions,"240,662.0",240662.0
+Category Performance,Beverages - Items Sold,"1,027,712.0",1027712.0
+Category Performance,Staples & Grains - Revenue,"$88,134,653.48",88134653.48
+Category Performance,Staples & Grains - Transactions,"142,136.0",142136.0
+Category Performance,Staples & Grains - Items Sold,"300,948.0",300948.0
+Category Performance,Fresh Produce - Revenue,"$81,757,628.89",81757628.89
+Category Performance,Fresh Produce - Transactions,"377,061.0",377061.0
+Category Performance,Fresh Produce - Items Sold,"1,361,979.0",1361979.0
+Category Performance,Cooking Essentials - Revenue,"$75,394,213.35",75394213.35
+Category Performance,Cooking Essentials - Transactions,"229,501.0",229501.0
+Category Performance,Cooking Essentials - Items Sold,"979,800.0",979800.0
+Category Performance,Dairy Products - Revenue,"$62,172,250.62",62172250.62
+Category Performance,Dairy Products - Transactions,"176,481.0",176481.0
+Category Performance,Dairy Products - Items Sold,"616,617.0",616617.0
+Category Performance,Household Items - Revenue,"$61,256,625.47",61256625.47
+Category Performance,Household Items - Transactions,"217,999.0",217999.0
+Category Performance,Household Items - Items Sold,"461,741.0",461741.0
+Category Performance,Frozen Foods - Revenue,"$46,493,190.94",46493190.94
+Category Performance,Frozen Foods - Transactions,"87,699.0",87699.0
+Category Performance,Frozen Foods - Items Sold,"376,718.0",376718.0
+Category Performance,Personal Care - Revenue,"$41,031,354.85",41031354.85
+Category Performance,Personal Care - Transactions,"70,061.0",70061.0
+Category Performance,Personal Care - Items Sold,"298,011.0",298011.0
+Category Performance,Snacks & Confectionery - Revenue,"$32,428,882.46",32428882.46
+Category Performance,Snacks & Confectionery - Transactions,"210,875.0",210875.0
+Category Performance,Snacks & Confectionery - Items Sold,"899,562.0",899562.0
+Category Performance,Bakery - Revenue,"$30,136,695.05",30136695.05
+Category Performance,Bakery - Transactions,"117,146.0",117146.0
+Category Performance,Bakery - Items Sold,"559,352.0",559352.0
+Customer Insights,New Customers - Total Revenue,"$40,481,128.76",40481128.76
+Customer Insights,New Customers - Avg Transaction Value,$330.20,330.1994254298672
+Customer Insights,New Customers - Count,"94,823",94823.0
+Customer Insights,Occasional Customers - Total Revenue,"$118,923,071.90",118923071.9
+Customer Insights,Occasional Customers - Avg Transaction Value,$289.26,289.2590467735266
+Customer Insights,Occasional Customers - Count,"179,083",179083.0
+Customer Insights,Premium Customers - Total Revenue,"$218,845,208.79",218845208.79
+Customer Insights,Premium Customers - Avg Transaction Value,$417.93,417.92826179286266
+Customer Insights,Premium Customers - Count,"186,391",186391.0
+Customer Insights,Regular Customers - Total Revenue,"$304,032,323.71",304032323.71
+Customer Insights,Regular Customers - Avg Transaction Value,$374.31,374.3078794635162
+Customer Insights,Regular Customers - Count,"196,242",196242.0
+Customer Insights,Age Group 26-35 - Revenue,"$239,274,306.91",239274306.91
+Customer Insights,Age Group 36-45 - Revenue,"$204,445,702.09",204445702.09
+Customer Insights,Age Group 46-60 - Revenue,"$136,340,355.05",136340355.05
+Customer Insights,Age Group 18-25 - Revenue,"$68,086,173.05",68086173.05
+Customer Insights,Age Group 60+ - Revenue,"$34,135,196.06",34135196.06
+Customer Insights,Female Customers - Revenue,"$341,464,166.77",341464166.77
+Customer Insights,Male Customers - Revenue,"$327,361,012.41",327361012.41
+Customer Insights,Other Customers - Revenue,"$13,456,553.98",13456553.98
+Operational Metrics,UPI - Transactions,"841,677.0 (45.0%)",841677.0
+Operational Metrics,UPI - Revenue,"$307,419,779.61",307419779.61
+Operational Metrics,Card - Transactions,"467,161.0 (25.0%)",467161.0
+Operational Metrics,Card - Revenue,"$170,400,869.89",170400869.89
+Operational Metrics,Cash - Transactions,"280,910.0 (15.0%)",280910.0
+Operational Metrics,Cash - Revenue,"$102,356,217.64",102356217.64
+Operational Metrics,Wallet - Transactions,"186,355.0 (10.0%)",186355.0
+Operational Metrics,Wallet - Revenue,"$68,110,982.93",68110982.93
+Operational Metrics,Credit - Transactions,"93,518.0 (5.0%)",93518.0
+Operational Metrics,Credit - Revenue,"$33,993,883.09",33993883.09
+Operational Metrics,Evening (4-9 PM) - Transactions,"841,003.0 (45.0%)",841003.0
+Operational Metrics,Morning (9-12 PM) - Transactions,"373,704.0 (20.0%)",373704.0
+Operational Metrics,Afternoon (12-4 PM) - Transactions,"280,196.0 (15.0%)",280196.0
+Operational Metrics,Night (9-11 PM) - Transactions,"187,799.0 (10.0%)",187799.0
+Operational Metrics,Early Morning (6-9 AM) - Transactions,"186,919.0 (10.0%)",186919.0
+Operational Metrics,In-store - Transactions,"1,402,838.0 (75.0%)",1402838.0
+Operational Metrics,In-store - Revenue,"$511,887,902.89",511887902.89
+Operational Metrics,Home Delivery - Transactions,"373,324.0 (20.0%)",373324.0
+Operational Metrics,Home Delivery - Revenue,"$136,423,929.74",136423929.74
+Operational Metrics,Click & Collect - Transactions,"93,459.0 (5.0%)",93459.0
+Operational Metrics,Click & Collect - Revenue,"$33,969,900.53",33969900.53
+Operational Metrics,Average Checkout Duration,202 seconds (3.4 minutes),202.06310530316037
+Product Insights,Non-Organic Products - Revenue,"$499,321,081.72",499321081.72
+Product Insights,Non-Organic Products - Transactions,"1,477,814.0 (79.0%)",1477814.0
+Product Insights,Organic Products - Revenue,"$182,960,651.44",182960651.44
+Product Insights,Organic Products - Transactions,"391,807.0 (21.0%)",391807.0
+Product Insights,Top Brand #1,"Fortune ($94,019,955.87)",94019955.87
+Product Insights,Top Brand #2,"Tata Tea ($90,172,439.84)",90172439.84
+Product Insights,Top Brand #3,"Amul ($64,160,369.22)",64160369.22
+Product Insights,Top Brand #4,"Local Farm ($51,852,169.29)",51852169.29
+Product Insights,Top Brand #5,"Surf Excel ($33,898,385.11)",33898385.11
+Product Insights,Top Brand #6,"Britannia ($31,452,722.74)",31452722.74
+Product Insights,Top Brand #7,"Dettol ($23,237,574.02)",23237574.02
+Product Insights,Top Brand #8,"Lays ($18,491,456.74)",18491456.74
+Product Insights,Top Brand #9,"Organic Valley ($14,970,806.75)",14970806.75
+Product Insights,Top Brand #10,"Fresh Direct ($14,934,652.85)",14934652.85
+Time-Based Trends,Weekday - Total Revenue,"$509,103,260.01",509103260.01
+Time-Based Trends,Weekday - Avg Transaction Value,$361.31,361.3054746974237
+Time-Based Trends,Weekday - Transactions,"1,409,066.0 (75.4%)",1409066.0
+Time-Based Trends,Weekend - Total Revenue,"$173,178,473.15",173178473.15
+Time-Based Trends,Weekend - Avg Transaction Value,$376.02,376.0212638012832
+Time-Based Trends,Weekend - Transactions,"460,555.0 (24.6%)",460555.0
+Time-Based Trends,Winter Season - Revenue,"$277,240,932.56",277240932.56
+Time-Based Trends,Monsoon Season - Revenue,"$168,845,013.39",168845013.39
+Time-Based Trends,Summer Season - Revenue,"$125,188,609.38",125188609.38
+Time-Based Trends,Spring Season - Revenue,"$111,007,177.83",111007177.83
+Time-Based Trends,2023-12 - Revenue,"$26,727,285.35",26727285.35
+Time-Based Trends,2023-12 - Transactions,"78,800.0",78800.0
+Time-Based Trends,2023-11 - Revenue,"$26,303,815.53",26303815.53
+Time-Based Trends,2023-11 - Transactions,"77,758.0",77758.0
+Time-Based Trends,2023-10 - Revenue,"$26,966,921.07",26966921.07
+Time-Based Trends,2023-10 - Transactions,"78,324.0",78324.0
+Time-Based Trends,2023-09 - Revenue,"$26,183,313.21",26183313.21
+Time-Based Trends,2023-09 - Transactions,"76,212.0",76212.0
+Time-Based Trends,2023-08 - Revenue,"$27,648,124.86",27648124.86
+Time-Based Trends,2023-08 - Transactions,"79,981.0",79981.0
+Time-Based Trends,2023-07 - Revenue,"$27,935,963.68",27935963.68
+Time-Based Trends,2023-07 - Transactions,"79,714.0",79714.0
+Loyalty & Promotions,Total Loyalty Points Earned,"11,124,870",11124870.0
+Loyalty & Promotions,Total Loyalty Points Used,"39,881,132",39881132.0
+Loyalty & Promotions,Net Loyalty Points,"-28,756,262",-28756262.0
+Loyalty & Promotions,Transactions with Promotions,"301,030 (16.1%)",301030.0

@@ -1,0 +1,4 @@
+gender,KPI_Category,Total_Revenue,Avg_Transaction_Value,Total_Transactions,Unique_Customers,Avg_Basket_Size
+Female,Gender,341464166.77,365.37,934575,198122,13.04
+Male,Gender,327361012.41,364.57,897942,197847,13.04
+Other,Gender,13456553.98,362.67,37104,33960,13.09
