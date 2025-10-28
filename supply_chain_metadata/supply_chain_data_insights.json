@@ -1,0 +1,320 @@
+{
+  "demand_forecasting": {
+    "average_accuracy": 77.2,
+    "average_volatility": 0.305,
+    "weather_impact": {
+      "Cloudy": 40.009956787251944,
+      "Rainy": 79.92484507407994,
+      "Stormy": 93.01599090574877,
+      "Sunny": 20.073910431729388
+    },
+    "seasonal_demand": {
+      "Monsoon": 1.0,
+      "Spring": 1.1,
+      "Summer": 1.3,
+      "Winter": 0.8
+    },
+    "category_accuracy": {
+      "Bakery": 77.27155036004048,
+      "Personal Care": 77.22890563833954,
+      "Cooking Essentials": 77.22049289826604,
+      "Fresh Produce": 77.21477402347804,
+      "Staples & Grains": 77.21454304563458,
+      "Dairy Products": 77.20545260529664,
+      "Snacks & Confectionery": 77.20090709789312,
+      "Beverages": 77.19112495266589,
+      "Frozen Foods": 77.19105481948363,
+      "Household Items": 77.16403969366131
+    },
+    "challenges": {
+      "low_accuracy_categories": {},
+      "high_volatility_items": 354007,
+      "weather_sensitive_items": 254235
+    }
+  },
+  "inventory_replenishment": {
+    "average_turnover": 3.7,
+    "average_lead_time": 4.0,
+    "average_stockout_risk": 28.6,
+    "category_turnover": {
+      "Fresh Produce": 2.1,
+      "Frozen Foods": 3.1999999999999997,
+      "Cooking Essentials": 3.8,
+      "Bakery": 4.0,
+      "Dairy Products": 4.0,
+      "Personal Care": 4.0,
+      "Snacks & Confectionery": 4.0,
+      "Staples & Grains": 4.0,
+      "Household Items": 4.2,
+      "Beverages": 4.8
+    },
+    "challenges": {
+      "slow_turning_categories": {
+        "Fresh Produce": 2.1
+      },
+      "high_lead_time_items": 93261,
+      "high_risk_items": 20400,
+      "excessive_safety_stock": 282962
+    }
+  },
+  "pricing_promotion": {
+    "average_elasticity": -1.52,
+    "average_promo_lift": 15.2,
+    "average_margin_impact": -5.0,
+    "average_price_sensitivity": 60.0,
+    "average_promo_effectiveness": 59.8,
+    "category_elasticity": {
+      "Bakery": -1.5196204439441736,
+      "Beverages": -1.5244600424502002,
+      "Cooking Essentials": -1.518364321427405,
+      "Dairy Products": -1.5193100916933233,
+      "Fresh Produce": -1.5249543630352564,
+      "Frozen Foods": -1.5199799040755018,
+      "Household Items": -1.5205333378910517,
+      "Personal Care": -1.517542738958263,
+      "Snacks & Confectionery": -1.520311945766426,
+      "Staples & Grains": -1.5208355213563391
+    },
+    "category_promo_lift": {
+      "Bakery": 15.177253188257822,
+      "Beverages": 15.203762176211155,
+      "Cooking Essentials": 15.226953590252547,
+      "Dairy Products": 15.22869659542781,
+      "Fresh Produce": 15.16687802459209,
+      "Frozen Foods": 15.188479869664862,
+      "Household Items": 15.200454475296013,
+      "Personal Care": 15.17734383614697,
+      "Snacks & Confectionery": 15.209917119824198,
+      "Staples & Grains": 15.234894261762502
+    },
+    "challenges": {
+      "high_elasticity_items": 253407,
+      "low_promo_lift_items": 910392,
+      "negative_margin_items": 496810,
+      "ineffective_promotions": 576413
+    }
+  },
+  "clustering_assortment": {
+    "cluster_distribution": {
+      "Medium Performance": 840402,
+      "Low Performance": 561333,
+      "High Performance": 467886
+    },
+    "average_assortment_efficiency": 64.9,
+    "average_sku_performance": 60.0,
+    "average_category_importance": 75.4,
+    "average_market_penetration": 74.0,
+    "region_performance": {
+      "assortment_efficiency": {
+        "Central": 64.9,
+        "East": 64.9,
+        "North": 64.9,
+        "South": 64.9,
+        "West": 64.9
+      },
+      "sku_performance_score": {
+        "Central": 60.0,
+        "East": 59.9,
+        "North": 60.0,
+        "South": 60.0,
+        "West": 60.0
+      },
+      "local_market_penetration": {
+        "Central": 74.0,
+        "East": 74.0,
+        "North": 74.1,
+        "South": 74.0,
+        "West": 74.0
+      }
+    },
+    "challenges": {
+      "low_efficiency_stores": 692182,
+      "underperforming_skus": 585652,
+      "low_penetration_markets": 423533,
+      "cluster_imbalance": {
+        "Medium Performance": 840402,
+        "Low Performance": 561333,
+        "High Performance": 467886
+      }
+    }
+  },
+  "space_planning": {
+    "average_space_utilization": 77.5,
+    "average_planogram_efficiency": 71.2,
+    "average_customer_flow": 74.1,
+    "average_sales_per_sqft": 900.0,
+    "average_visual_merchandising": 69.0,
+    "category_space_allocation": {
+      "Bakery": 15.017574100546454,
+      "Beverages": 15.026017431017834,
+      "Cooking Essentials": 14.997630519026773,
+      "Dairy Products": 15.001959379752137,
+      "Fresh Produce": 15.013765231299514,
+      "Frozen Foods": 15.001667573258803,
+      "Household Items": 14.987396168292555,
+      "Personal Care": 15.01303819634483,
+      "Snacks & Confectionery": 15.008140155276976,
+      "Staples & Grains": 15.002661696220251
+    },
+    "store_type_performance": {
+      "space_utilization": {
+        "Express": 77.5,
+        "Hypermarket": 77.5,
+        "Supermarket": 77.5
+      },
+      "planogram_efficiency": {
+        "Express": 71.2,
+        "Hypermarket": 71.2,
+        "Supermarket": 71.2
+      },
+      "sales_per_sqft": {
+        "Express": 900.0,
+        "Hypermarket": 900.0,
+        "Supermarket": 900.0
+      },
+      "customer_flow_score": {
+        "Express": 74.1,
+        "Hypermarket": 74.0,
+        "Supermarket": 74.1
+      }
+    },
+    "challenges": {
+      "underutilized_stores": 555135,
+      "inefficient_planograms": 472798,
+      "poor_flow_stores": 424448,
+      "low_sales_density": 577633
+    }
+  },
+  "supplier_performance": {
+    "average_supplier_performance": 71.4,
+    "average_delivery_reliability": 74.7,
+    "average_quality_score": 79.5,
+    "average_cost_efficiency": 69.6,
+    "average_innovation_score": 64.5,
+    "average_risk_score": 28.6,
+    "top_suppliers": {
+      "SUP_000295": 19052,
+      "SUP_000325": 19027,
+      "SUP_000230": 18969,
+      "SUP_000150": 18933,
+      "SUP_000495": 18906,
+      "SUP_000445": 18905,
+      "SUP_000250": 18902,
+      "SUP_000285": 18898,
+      "SUP_000370": 18883,
+      "SUP_000015": 18874,
+      "SUP_000465": 18869,
+      "SUP_000130": 18865,
+      "SUP_000470": 18864,
+      "SUP_000420": 18852,
+      "SUP_000110": 18852,
+      "SUP_000460": 18850,
+      "SUP_000450": 18846,
+      "SUP_000190": 18843,
+      "SUP_000155": 18835,
+      "SUP_000430": 18834
+    },
+    "category_supplier_performance": {
+      "supplier_performance_score": {
+        "Bakery": 71.3,
+        "Beverages": 71.3,
+        "Cooking Essentials": 71.4,
+        "Dairy Products": 71.4,
+        "Fresh Produce": 71.4,
+        "Frozen Foods": 71.4,
+        "Household Items": 71.3,
+        "Personal Care": 71.5,
+        "Snacks & Confectionery": 71.5,
+        "Staples & Grains": 71.3
+      },
+      "delivery_reliability": {
+        "Bakery": 74.7,
+        "Beverages": 74.8,
+        "Cooking Essentials": 74.8,
+        "Dairy Products": 74.7,
+        "Fresh Produce": 74.7,
+        "Frozen Foods": 74.7,
+        "Household Items": 74.8,
+        "Personal Care": 74.7,
+        "Snacks & Confectionery": 74.7,
+        "Staples & Grains": 74.7
+      },
+      "quality_score": {
+        "Bakery": 79.5,
+        "Beverages": 79.6,
+        "Cooking Essentials": 79.5,
+        "Dairy Products": 79.5,
+        "Fresh Produce": 79.5,
+        "Frozen Foods": 79.5,
+        "Household Items": 79.5,
+        "Personal Care": 79.5,
+        "Snacks & Confectionery": 79.5,
+        "Staples & Grains": 79.5
+      },
+      "supplier_cost_efficiency": {
+        "Bakery": 69.5,
+        "Beverages": 69.6,
+        "Cooking Essentials": 69.6,
+        "Dairy Products": 69.6,
+        "Fresh Produce": 69.5,
+        "Frozen Foods": 69.6,
+        "Household Items": 69.6,
+        "Personal Care": 69.6,
+        "Snacks & Confectionery": 69.6,
+        "Staples & Grains": 69.5
+      }
+    },
+    "challenges": {
+      "underperforming_suppliers": 512532,
+      "unreliable_deliveries": 691732,
+      "quality_issues": 471734,
+      "high_cost_suppliers": 577216,
+      "high_risk_suppliers": 20235
+    }
+  },
+  "summary": {
+    "kpis": {
+      "total_transactions": 1869621,
+      "total_revenue": 9864334.05,
+      "average_transaction_value": 5.28,
+      "forecast_accuracy": 77.2,
+      "inventory_turnover": 3.7,
+      "space_utilization": 77.5,
+      "supplier_performance": 71.4
+    },
+    "critical_challenges": {
+      "demand_forecasting": {
+        "low_accuracy_categories": 0,
+        "high_volatility_items": 354007,
+        "weather_sensitive_items": 254235
+      },
+      "inventory_replenishment": {
+        "slow_turning_categories": 1,
+        "high_lead_time_items": 93261,
+        "high_risk_items": 20400
+      },
+      "pricing_promotion": {
+        "high_elasticity_items": 253407,
+        "ineffective_promotions": 576413,
+        "negative_margin_items": 496810
+      },
+      "clustering_assortment": {
+        "low_efficiency_stores": 692182,
+        "underperforming_skus": 585652,
+        "low_penetration_markets": 423533
+      },
+      "space_planning": {
+        "underutilized_stores": 555135,
+        "inefficient_planograms": 472798,
+        "poor_flow_stores": 424448
+      },
+      "supplier_performance": {
+        "underperforming_suppliers": 512532,
+        "unreliable_deliveries": 691732,
+        "quality_issues": 471734
+      }
+    },
+    "analysis_date": "2025-10-27 19:19:02",
+    "dataset_size": "1,869,621 transactions"
+  }
+}

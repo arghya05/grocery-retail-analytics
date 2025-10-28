@@ -1,0 +1,86 @@
+{
+  "category_performance": {
+    "Beverages": {
+      "our_revenue": 2363500.05,
+      "our_margin": -5.018703497397467,
+      "our_turnover": 4.8,
+      "industry_margin": 8.0,
+      "industry_turnover": 6.0,
+      "gap_margin": -13.018703497397468,
+      "gap_turnover": -1.2000000000000002
+    },
+    "Fresh Produce": {
+      "our_revenue": 1182052.6,
+      "our_margin": -4.97935759051258,
+      "our_turnover": 2.1,
+      "industry_margin": 12.0,
+      "industry_turnover": 4.5,
+      "gap_margin": -16.97935759051258,
+      "gap_turnover": -2.4
+    },
+    "Staples & Grains": {
+      "our_revenue": 1274237.93,
+      "our_margin": -5.011003251282334,
+      "our_turnover": 4.0,
+      "industry_margin": 6.0,
+      "industry_turnover": 5.5,
+      "gap_margin": -11.011003251282334,
+      "gap_turnover": -1.5
+    }
+  },
+  "operational_benchmarks": {
+    "forecast_accuracy": {
+      "our_performance": 77.20702913590799,
+      "industry_benchmark": 85.0,
+      "gap": -7.792970864092013,
+      "performance_vs_benchmark": 90.83179898342117
+    },
+    "inventory_turnover": {
+      "our_performance": 3.681033803107689,
+      "industry_benchmark": 5.2,
+      "gap": -1.5189661968923112,
+      "performance_vs_benchmark": 70.78911159822479
+    },
+    "space_utilization": {
+      "our_performance": 77.54044435171471,
+      "industry_benchmark": 85.0,
+      "gap": -7.4595556482852885,
+      "performance_vs_benchmark": 91.2240521784879
+    },
+    "supplier_performance": {
+      "our_performance": 71.39730318317025,
+      "industry_benchmark": 88.0,
+      "gap": -16.60269681682975,
+      "performance_vs_benchmark": 81.13329907178438
+    }
+  },
+  "pricing_benchmarks": {
+    "price_elasticity": {
+      "our_performance": -1.521351469930268,
+      "industry_benchmark": -1.2,
+      "gap": -0.321351469930268,
+      "performance_vs_benchmark": 126.77928916085565
+    },
+    "promotional_lift": {
+      "our_performance": 15.200831425532135,
+      "industry_benchmark": 25.0,
+      "gap": -9.799168574467865,
+      "performance_vs_benchmark": 60.80332570212854
+    }
+  },
+  "customer_benchmarks": {
+    "transaction_value": {
+      "our_performance": 5.2761142766368145,
+      "industry_benchmark": 45.0,
+      "gap": -39.72388572336318,
+      "performance_vs_benchmark": 11.724698392526255
+    },
+    "basket_size": {
+      "our_performance": 16.948781597981622,
+      "industry_benchmark": 12.0,
+      "gap": 4.948781597981622,
+      "performance_vs_benchmark": 141.23984664984687
+    }
+  },
+  "analysis_date": "2025-10-27 20:00:30"
+}
