@@ -1,0 +1,539 @@
+{
+  "revenue_forecasting": {
+    "next_4_quarters": [
+      {
+        "quarter": "2024-Q1",
+        "forecasted_revenue": 1112192142.7868445,
+        "growth_assumption_pct": -0.21730872732778472
+      },
+      {
+        "quarter": "2024-Q2",
+        "forecasted_revenue": 1109775252.195915,
+        "growth_assumption_pct": -0.21730872732778472
+      },
+      {
+        "quarter": "2024-Q3",
+        "forecasted_revenue": 1107363613.7191694,
+        "growth_assumption_pct": -0.21730872732778472
+      },
+      {
+        "quarter": "2024-Q4",
+        "forecasted_revenue": 1104957215.9433053,
+        "growth_assumption_pct": -0.21730872732778472
+      }
+    ],
+    "annual_2024_forecast": 4434288224.645234,
+    "annual_2024_growth_pct": -0.30864772605207624,
+    "avg_quarterly_growth_rate_pct": -0.21730872732778472,
+    "seasonality_patterns": {
+      "Monsoon": {
+        "revenue": 2277014877.823563,
+        "percentage": 25.300165309150746
+      },
+      "Spring": {
+        "revenue": 1485699473.5755277,
+        "percentage": 16.507771928617
+      },
+      "Summer": {
+        "revenue": 1500271254.9660728,
+        "percentage": 16.66968061073417
+      },
+      "Winter": {
+        "revenue": 3737014393.634822,
+        "percentage": 41.52238215149809
+      }
+    }
+  },
+  "customer_behavior": {
+    "churn_risk_analysis": {
+      "total_at_risk": 36870,
+      "high_risk_count": 11489,
+      "medium_risk_count": 25381,
+      "top_20_at_risk": [
+        {
+          "customer_id": "CUST_00000003",
+          "h1_2023_transactions": 28,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000004",
+          "h1_2023_transactions": 49,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000090",
+          "h1_2023_transactions": 19,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000174",
+          "h1_2023_transactions": 23,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000175",
+          "h1_2023_transactions": 22,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000256",
+          "h1_2023_transactions": 33,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000294",
+          "h1_2023_transactions": 32,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000576",
+          "h1_2023_transactions": 19,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000597",
+          "h1_2023_transactions": 32,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000648",
+          "h1_2023_transactions": 9,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000748",
+          "h1_2023_transactions": 29,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00000797",
+          "h1_2023_transactions": 47,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00001173",
+          "h1_2023_transactions": 22,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00001180",
+          "h1_2023_transactions": 33,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00001238",
+          "h1_2023_transactions": 47,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00001311",
+          "h1_2023_transactions": 76,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00001776",
+          "h1_2023_transactions": 48,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00001980",
+          "h1_2023_transactions": 9,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00002003",
+          "h1_2023_transactions": 41,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        },
+        {
+          "customer_id": "CUST_00002059",
+          "h1_2023_transactions": 27,
+          "h2_2023_transactions": 0,
+          "decline_pct": 100.0,
+          "churn_risk": "HIGH"
+        }
+      ]
+    },
+    "segment_migration": {
+      "Regular \u2192 New": 62,
+      "Regular \u2192 Occasional": 155,
+      "Premium \u2192 Occasional": 125,
+      "Premium \u2192 New": 55,
+      "Premium \u2192 Regular": 97,
+      "Occasional \u2192 Regular": 89,
+      "Regular \u2192 Premium": 49,
+      "Occasional \u2192 New": 22,
+      "New \u2192 Regular": 38,
+      "New \u2192 Occasional": 46,
+      "Occasional \u2192 Premium": 16,
+      "New \u2192 Premium": 8
+    },
+    "clv_by_segment": {
+      "New": 3889.970287154574,
+      "Occasional": 9145.399747023057,
+      "Premium": 13369.008309876846,
+      "Regular": 19839.567332172963
+    }
+  },
+  "product_demand": {
+    "fastest_growing_products": [
+      {
+        "product_id": "PRD_00005",
+        "product_name": "Toor Dal 1kg",
+        "category": "Staples & Grains",
+        "revenue_2022": 55046511.47420023,
+        "revenue_2023": 56201680.04427107,
+        "growth_pct": 2.0985318399554838,
+        "forecast_2024": 57381090.194589995
+      },
+      {
+        "product_id": "PRD_00023",
+        "product_name": "Coffee 200g",
+        "category": "Beverages",
+        "revenue_2022": 129825744.5815056,
+        "revenue_2023": 132368085.14050603,
+        "growth_pct": 1.9582715024633126,
+        "forecast_2024": 134960211.6301689
+      },
+      {
+        "product_id": "PRD_00001",
+        "product_name": "Basmati Rice 5kg",
+        "category": "Staples & Grains",
+        "revenue_2022": 85263704.96720974,
+        "revenue_2023": 86809598.49203157,
+        "growth_pct": 1.8130733650576694,
+        "forecast_2024": 88383520.20060411
+      },
+      {
+        "product_id": "PRD_00004",
+        "product_name": "Moong Dal 1kg",
+        "category": "Staples & Grains",
+        "revenue_2022": 53155378.004687846,
+        "revenue_2023": 54059761.71165176,
+        "growth_pct": 1.7013964360937341,
+        "forecast_2024": 54979532.57077456
+      },
+      {
+        "product_id": "PRD_00043",
+        "product_name": "Body Wash 250ml",
+        "category": "Personal Care",
+        "revenue_2022": 32575363.89074857,
+        "revenue_2023": 33127800.50596998,
+        "growth_pct": 1.6958724300798973,
+        "forecast_2024": 33689605.74144259
+      },
+      {
+        "product_id": "PRD_00010",
+        "product_name": "Paneer 200g",
+        "category": "Dairy Products",
+        "revenue_2022": 74297610.92818673,
+        "revenue_2023": 75247594.79203208,
+        "growth_pct": 1.2786196648551285,
+        "forecast_2024": 76209725.3363735
+      },
+      {
+        "product_id": "PRD_00018",
+        "product_name": "Apple 1kg",
+        "category": "Fresh Produce",
+        "revenue_2022": 140642291.17543942,
+        "revenue_2023": 142367511.68969604,
+        "growth_pct": 1.2266726457865786,
+        "forecast_2024": 144113895.01208055
+      },
+      {
+        "product_id": "PRD_00044",
+        "product_name": "Face Cream 50g",
+        "category": "Personal Care",
+        "revenue_2022": 26942418.537446108,
+        "revenue_2023": 27131814.436567064,
+        "growth_pct": 0.702965470073607,
+        "forecast_2024": 27322541.723460574
+      },
+      {
+        "product_id": "PRD_00003",
+        "product_name": "Wheat Flour 5kg",
+        "category": "Staples & Grains",
+        "revenue_2022": 66738680.70947136,
+        "revenue_2023": 67109519.4979534,
+        "growth_pct": 0.5556579550866245,
+        "forecast_2024": 67482418.88166419
+      },
+      {
+        "product_id": "PRD_00045",
+        "product_name": "Detergent 1kg",
+        "category": "Household Items",
+        "revenue_2022": 161302895.1431506,
+        "revenue_2023": 162121559.7564624,
+        "growth_pct": 0.5075324981521637,
+        "forecast_2024": 162944379.35873762
+      }
+    ],
+    "slowest_growing_products": [
+      {
+        "product_id": "PRD_00051",
+        "product_name": "Buns Pack of 6",
+        "category": "Bakery",
+        "revenue_2022": 49329474.74534255,
+        "revenue_2023": 44825578.580222145,
+        "growth_pct": -9.1302333713692,
+        "forecast_2024": 40732898.645781375
+      },
+      {
+        "product_id": "PRD_00035",
+        "product_name": "Salt 1kg",
+        "category": "Cooking Essentials",
+        "revenue_2022": 57728352.38119682,
+        "revenue_2023": 52598089.40130648,
+        "growth_pct": -8.886903520152014,
+        "forecast_2024": 47923747.94276907
+      },
+      {
+        "product_id": "PRD_00050",
+        "product_name": "Bread 400g",
+        "category": "Bakery",
+        "revenue_2022": 74304081.34145331,
+        "revenue_2023": 68797948.13677052,
+        "growth_pct": -7.410270210300002,
+        "forecast_2024": 63699834.28069376
+      },
+      {
+        "product_id": "PRD_00028",
+        "product_name": "Potato Chips 100g",
+        "category": "Snacks & Confectionery",
+        "revenue_2022": 60841630.657962725,
+        "revenue_2023": 56426439.81001484,
+        "growth_pct": -7.2568581745763,
+        "forecast_2024": 52331653.1000394
+      },
+      {
+        "product_id": "PRD_00040",
+        "product_name": "Soap 125g",
+        "category": "Personal Care",
+        "revenue_2022": 40983370.82953368,
+        "revenue_2023": 38213985.50279737,
+        "growth_pct": -6.757339063824926,
+        "forecast_2024": 35631736.93257245
+      },
+      {
+        "product_id": "PRD_00031",
+        "product_name": "Namkeen 200g",
+        "category": "Snacks & Confectionery",
+        "revenue_2022": 74921840.61800577,
+        "revenue_2023": 70051064.85442485,
+        "growth_pct": -6.501142688705299,
+        "forecast_2024": 65496945.1732812
+      },
+      {
+        "product_id": "PRD_00029",
+        "product_name": "Biscuits 200g",
+        "category": "Snacks & Confectionery",
+        "revenue_2022": 70357099.58187923,
+        "revenue_2023": 65806252.0279063,
+        "growth_pct": -6.46821369985101,
+        "forecast_2024": 61549763.01887878
+      },
+      {
+        "product_id": "PRD_00030",
+        "product_name": "Chocolate 50g",
+        "category": "Snacks & Confectionery",
+        "revenue_2022": 72792185.8450554,
+        "revenue_2023": 68302973.1702902,
+        "growth_pct": -6.16716289344695,
+        "forecast_2024": 64090617.553811036
+      },
+      {
+        "product_id": "PRD_00021",
+        "product_name": "Spinach 500g",
+        "category": "Fresh Produce",
+        "revenue_2022": 51707961.63722693,
+        "revenue_2023": 48614654.46512798,
+        "growth_pct": -5.982264769593888,
+        "forecast_2024": 45706397.11820082
+      },
+      {
+        "product_id": "PRD_00053",
+        "product_name": "Cookies 200g",
+        "category": "Bakery",
+        "revenue_2022": 37813688.39407381,
+        "revenue_2023": 35681538.222558506,
+        "growth_pct": -5.638567042958584,
+        "forecast_2024": 33669610.76792065
+      }
+    ],
+    "category_forecasts": {
+      "Household Items": {
+        "revenue_2023": 573264566.5892423,
+        "growth_pct": -0.4314014800501759,
+        "forecast_2024": 570791494.7643732
+      },
+      "Cooking Essentials": {
+        "revenue_2023": 508256925.29650414,
+        "growth_pct": -4.152702389760949,
+        "forecast_2024": 487150527.81359065
+      },
+      "Beverages": {
+        "revenue_2023": 704795667.6587175,
+        "growth_pct": -1.4100757457757382,
+        "forecast_2024": 694857514.8917837
+      },
+      "Staples & Grains": {
+        "revenue_2023": 416294061.43526775,
+        "growth_pct": 0.6910611855341451,
+        "forecast_2024": 419170908.11153054
+      },
+      "Frozen Foods": {
+        "revenue_2023": 244393365.601648,
+        "growth_pct": -1.94631463004372,
+        "forecast_2024": 239636701.7720869
+      },
+      "Fresh Produce": {
+        "revenue_2023": 752935159.8002025,
+        "growth_pct": -2.4618370653316646,
+        "forecast_2024": 734399122.9583269
+      },
+      "Bakery": {
+        "revenue_2023": 243888686.00308013,
+        "growth_pct": -5.761657183025674,
+        "forecast_2024": 229836656.00739673
+      },
+      "Dairy Products": {
+        "revenue_2023": 430154237.74627435,
+        "growth_pct": -1.2231328122528997,
+        "forecast_2024": 424892880.1211033
+      },
+      "Snacks & Confectionery": {
+        "revenue_2023": 383089013.0958181,
+        "growth_pct": -6.169226501397083,
+        "forecast_2024": 359455384.1759703
+      },
+      "Personal Care": {
+        "revenue_2023": 190945244.52038044,
+        "growth_pct": -1.525592387158467,
+        "forecast_2024": 188032198.4063364
+      }
+    }
+  },
+  "risk_identification": {
+    "revenue_at_risk": {
+      "total_amount": 22986.006260005233,
+      "declining_stores_count": 1,
+      "declining_stores": [
+        {
+          "store_id": "STR_000053",
+          "region": "East",
+          "store_type": "Hypermarket",
+          "revenue_2022": 401826.7811591208,
+          "revenue_2023": 378840.77489911555,
+          "decline_pct": -5.720376873263438,
+          "revenue_at_risk": 22986.006260005233
+        }
+      ]
+    },
+    "customers_at_risk": {
+      "total_count": 36870,
+      "high_risk_count": 11489
+    },
+    "declining_categories": [
+      {
+        "category": "Household Items",
+        "revenue_2022": 575748353.5076388,
+        "revenue_2023": 573264566.5892423,
+        "decline_pct": -0.4314014800501759
+      },
+      {
+        "category": "Cooking Essentials",
+        "revenue_2022": 530277783.48359895,
+        "revenue_2023": 508256925.29650414,
+        "decline_pct": -4.152702389760949
+      },
+      {
+        "category": "Beverages",
+        "revenue_2022": 714875960.1856772,
+        "revenue_2023": 704795667.6587175,
+        "decline_pct": -1.4100757457757382
+      },
+      {
+        "category": "Frozen Foods",
+        "revenue_2022": 249244446.7329836,
+        "revenue_2023": 244393365.601648,
+        "decline_pct": -1.94631463004372
+      },
+      {
+        "category": "Fresh Produce",
+        "revenue_2022": 771939041.2391949,
+        "revenue_2023": 752935159.8002025,
+        "decline_pct": -2.4618370653316646
+      },
+      {
+        "category": "Bakery",
+        "revenue_2022": 258799845.91489506,
+        "revenue_2023": 243888686.00308013,
+        "decline_pct": -5.761657183025674
+      },
+      {
+        "category": "Dairy Products",
+        "revenue_2022": 435480745.6372066,
+        "revenue_2023": 430154237.74627435,
+        "decline_pct": -1.2231328122528997
+      },
+      {
+        "category": "Snacks & Confectionery",
+        "revenue_2022": 408276516.1277521,
+        "revenue_2023": 383089013.0958181,
+        "decline_pct": -6.169226501397083
+      },
+      {
+        "category": "Personal Care",
+        "revenue_2022": 193903420.33952004,
+        "revenue_2023": 190945244.52038044,
+        "decline_pct": -1.525592387158467
+      }
+    ]
+  },
+  "opportunity_identification": {
+    "high_growth_stores": [],
+    "underperforming_with_potential": [],
+    "cross_sell_opportunities": {
+      "customers_with_low_category_diversity": 73,
+      "average_categories_per_customer": 7.914980425097874
+    }
+  }
+}

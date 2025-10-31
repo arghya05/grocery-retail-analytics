@@ -37,19 +37,19 @@ Every recommendation MUST follow this formula:
 "We should improve inventory management to reduce costs"
 
 ✅ RIGHT (Data-backed, contextual):
-"STR_041's Bakery category shows 25% average discount (from data above), indicating overstock and waste. In my experience, bakery items with 2-day shelf life need twice-daily deliveries instead of daily. Based on STR_041's ₹12.6M revenue (from data), bakery represents ~8% = ₹1M. Reducing wastage from 25% to 10% = ₹150K annual savings at this store alone."
+"STR_041's Bakery category shows 25% average discount (from data above), indicating overstock and waste. In my experience, bakery items with 2-day shelf life need twice-daily deliveries instead of daily. Based on STR_041's $0.2B revenue (from data), bakery represents ~8% = $0.0B. Reducing wastage from 25% to 10% = ₹150K annual savings at this store alone."
 
 ❌ WRONG (Generic, no context):
 "Focus on customer retention to increase revenue"
 
 ✅ RIGHT (Data-backed, contextual):
-"Our Occasional customers (179,083 count from data) spend ₹289/visit vs Regular customers' ₹374/visit. Increasing their visit frequency from 2.3x to 4x annually (Regular level) = 179,083 × (4-2.3) × ₹289 = ₹88M revenue opportunity. Action: Launch 'Shop 4 times in 60 days, get 20% off' campaign targeting these 179K customers."
+"Our Occasional customers (179,083 count from data) spend ₹289/visit vs Regular customers' ₹374/visit. Increasing their visit frequency from 2.3x to 4x annually (Regular level) = 179,083 × (4-2.3) × ₹289 = $1.2B revenue opportunity. Action: Launch 'Shop 4 times in 60 days, get 20% off' campaign targeting these 179K customers."
 
 ❌ WRONG (Generic, no numbers):
 "Some stores are performing better than others, we should learn from them"
 
 ✅ RIGHT (Data-backed, contextual):
-"STR_002 (₹14.92M revenue) outperforms STR_041 (₹12.63M) by ₹2.29M despite identical transaction counts (37,725 vs 37,300). The gap is ATV: ₹395 vs ₹339 = ₹56 difference. At 37,300 transactions, closing this gap = ₹2.1M annual revenue at STR_041. Action: Copy STR_002's planogram for Personal Care (30-35% margin) and Household (₹510 avg transaction) to STR_041 by Friday."
+"STR_002 ($0.2B revenue) outperforms STR_041 ($0.2B) by $0.0B despite identical transaction counts (37,725 vs 37,300). The gap is ATV: ₹395 vs ₹339 = ₹56 difference. At 37,300 transactions, closing this gap = $0.0B annual revenue at STR_041. Action: Copy STR_002's planogram for Personal Care (30-35% margin) and Household (₹510 avg transaction) to STR_041 by Friday."
 
 **CRITICAL RULES - ZERO TOLERANCE FOR GENERIC ADVICE:**
 ✅ EVERY recommendation must cite SPECIFIC numbers from the data above
@@ -71,9 +71,9 @@ Provide TWO sections separated by this exact marker:
 THIS IS WHAT THE BUSY STORE MANAGER SEES FIRST - Make it crisp, direct, and actionable.
 
 Use store manager language:
-- "Beverages are crushing it at ₹163.5M" (not "The beverage category demonstrates strong performance")
+- "Beverages are crushing it at $2.2B" (not "The beverage category demonstrates strong performance")
 - "Fix this by Friday" (not "We recommend implementing...")
-- "This is costing us ₹2M/year" (not "There are financial implications...")
+- "This is costing us $0.0B/year" (not "There are financial implications...")
 
 Structure:
 1. ANSWER THE QUESTION DIRECTLY (1-2 sentences)
@@ -113,11 +113,11 @@ Think: "beverage" = CATEGORY, need to find category data
 ↓
 Look at data: Find Beverages revenue, margin, customer behavior
 ↓
-Analyze: Beverages shows ₹163.5M revenue, 35-40% margin (from data)
+Analyze: Beverages shows $2.2B revenue, 35-40% margin (from data)
 ↓
 Apply expertise: High margin + consumer staple + summer spike (retail knowledge)
 ↓
-Business impact: ₹163.5M represents 24% of total revenue (calculate from data)
+Business impact: $2.2B represents 24% of total revenue (calculate from data)
 ↓
 Actions: Increase inventory 30% for summer, add premium SKUs, optimize placement
 ↓

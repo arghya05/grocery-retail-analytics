@@ -1,0 +1,474 @@
+{
+  "business_performance": {
+    "total_revenue_2_years": 8999999999.999962,
+    "total_revenue_2022": 4551983072.252851,
+    "total_revenue_2023": 4448016927.747135,
+    "total_transactions": 24268230,
+    "avg_transaction_value": 370.8552292441584,
+    "revenue_per_store": 176470588.23529336,
+    "revenue_per_customer": 44999.775001124806,
+    "transactions_per_customer": 121.34054329728352
+  },
+  "growth_metrics": {
+    "yoy_revenue_growth_pct": -2.283974761229963,
+    "yoy_transaction_growth_pct": 0.22822897549265347,
+    "yoy_customer_growth_pct": 0.004000440048405325,
+    "qoq_revenue_growth_pct": -0.816000357381968,
+    "mom_revenue_growth_pct": 1.3934503122468833
+  },
+  "operational_metrics": {
+    "total_stores": 51,
+    "stores_by_region": {
+      "Central": 16,
+      "East": 23,
+      "North": 23,
+      "South": 19,
+      "West": 8
+    },
+    "stores_by_type": {
+      "Express": 19,
+      "Hypermarket": 36,
+      "Supermarket": 28
+    },
+    "total_customers": 200001,
+    "customers_by_segment": {
+      "New": 144528,
+      "Occasional": 197863,
+      "Premium": 199097,
+      "Regular": 199930
+    },
+    "total_products": 59,
+    "products_by_category": {
+      "Bakery": 5,
+      "Beverages": 6,
+      "Cooking Essentials": 6,
+      "Dairy Products": 6,
+      "Fresh Produce": 8,
+      "Frozen Foods": 5,
+      "Household Items": 5,
+      "Personal Care": 5,
+      "Snacks & Confectionery": 6,
+      "Staples & Grains": 7
+    },
+    "total_employees": 500,
+    "avg_basket_size": 26.127436817600625
+  },
+  "profitability_indicators": {
+    "gross_margin_pct": -34.79719362336404,
+    "total_discounts_given": -7250716393.110107,
+    "avg_discount_pct": 9.521236818671984,
+    "promotional_transaction_pct": 16.10033776670157,
+    "promotional_revenue": 1238357232.3918297,
+    "promotional_revenue_pct": 13.759524804353724
+  },
+  "customer_metrics": {
+    "customer_lifetime_value": 44999.775001124806,
+    "customer_retention_rate_pct": 99.99249917490924,
+    "loyalty_program_usage_pct": 21.407634590573764,
+    "segment_breakdown": {
+      "New": {
+        "revenue": 562209625.6618764,
+        "customers": 144528,
+        "avg_revenue_per_customer": 3889.970287154575
+      },
+      "Occasional": {
+        "revenue": 1809536230.1452239,
+        "customers": 197863,
+        "avg_revenue_per_customer": 9145.39974702306
+      },
+      "Premium": {
+        "revenue": 2661729447.471548,
+        "customers": 199097,
+        "avg_revenue_per_customer": 13369.008309876834
+      },
+      "Regular": {
+        "revenue": 3966524696.721337,
+        "customers": 199930,
+        "avg_revenue_per_customer": 19839.567332172945
+      }
+    }
+  },
+  "product_performance": {
+    "top_10_by_revenue": [
+      {
+        "product_id": "PRD_00045",
+        "product_name": "Detergent 1kg",
+        "revenue": 323424454.899613
+      },
+      {
+        "product_id": "PRD_00034",
+        "product_name": "Cooking Oil 1L",
+        "revenue": 297872758.70782477
+      },
+      {
+        "product_id": "PRD_00018",
+        "product_name": "Apple 1kg",
+        "revenue": 283009802.8651355
+      },
+      {
+        "product_id": "PRD_00022",
+        "product_name": "Tea 250g",
+        "revenue": 272194051.9828808
+      },
+      {
+        "product_id": "PRD_00023",
+        "product_name": "Coffee 200g",
+        "revenue": 262193829.72201163
+      },
+      {
+        "product_id": "PRD_00024",
+        "product_name": "Soft Drink 2L",
+        "revenue": 244996560.3394264
+      },
+      {
+        "product_id": "PRD_00020",
+        "product_name": "Orange 1kg",
+        "revenue": 238630874.97691768
+      },
+      {
+        "product_id": "PRD_00046",
+        "product_name": "Dish Wash 500ml",
+        "revenue": 235820115.5664672
+      },
+      {
+        "product_id": "PRD_00019",
+        "product_name": "Banana 1 dozen",
+        "revenue": 230903407.04693636
+      },
+      {
+        "product_id": "PRD_00026",
+        "product_name": "Orange Juice 1L",
+        "revenue": 214543969.60732615
+      }
+    ],
+    "top_10_by_volume": [
+      {
+        "product_id": "PRD_00034",
+        "product_name": "Cooking Oil 1L",
+        "quantity": 5302292
+      },
+      {
+        "product_id": "PRD_00022",
+        "product_name": "Tea 250g",
+        "quantity": 5062348
+      },
+      {
+        "product_id": "PRD_00024",
+        "product_name": "Soft Drink 2L",
+        "quantity": 4795116
+      },
+      {
+        "product_id": "PRD_00050",
+        "product_name": "Bread 400g",
+        "quantity": 4734460
+      },
+      {
+        "product_id": "PRD_00014",
+        "product_name": "Tomato 1kg",
+        "quantity": 4700622
+      },
+      {
+        "product_id": "PRD_00015",
+        "product_name": "Onion 1kg",
+        "quantity": 4698304
+      },
+      {
+        "product_id": "PRD_00016",
+        "product_name": "Potato 1kg",
+        "quantity": 4596268
+      },
+      {
+        "product_id": "PRD_00023",
+        "product_name": "Coffee 200g",
+        "quantity": 4501624
+      },
+      {
+        "product_id": "PRD_00019",
+        "product_name": "Banana 1 dozen",
+        "quantity": 4461382
+      },
+      {
+        "product_id": "PRD_00018",
+        "product_name": "Apple 1kg",
+        "quantity": 4408444
+      }
+    ],
+    "top_10_categories": {
+      "Fresh Produce": 1524874201.0393972,
+      "Beverages": 1419671627.8443947,
+      "Household Items": 1149012920.0968812,
+      "Cooking Essentials": 1038534708.7801031,
+      "Dairy Products": 865634983.3834809,
+      "Staples & Grains": 829731020.5196506,
+      "Snacks & Confectionery": 791365529.2235702,
+      "Bakery": 502688531.9179752,
+      "Frozen Foods": 493637812.3346316,
+      "Personal Care": 384848664.8599005
+    },
+    "fastest_growing_products": [
+      {
+        "product_id": "PRD_00023",
+        "product_name": "Coffee 200g",
+        "growth_pct": 1.9582715024632997,
+        "revenue_2023": 132368085.1405061
+      },
+      {
+        "product_id": "PRD_00004",
+        "product_name": "Moong Dal 1kg",
+        "growth_pct": 1.7013964360937481,
+        "revenue_2023": 54059761.711651765
+      },
+      {
+        "product_id": "PRD_00045",
+        "product_name": "Detergent 1kg",
+        "growth_pct": 0.5075324981521636,
+        "revenue_2023": 162121559.75646242
+      },
+      {
+        "product_id": "PRD_00011",
+        "product_name": "Butter 100g",
+        "growth_pct": -0.21167511110799309,
+        "revenue_2023": 57917330.12584425
+      },
+      {
+        "product_id": "PRD_00027",
+        "product_name": "Energy Drink 250ml",
+        "growth_pct": -0.2516210934399517,
+        "revenue_2023": 105556829.30200288
+      }
+    ]
+  },
+  "regional_performance": {
+    "North": {
+      "revenue": 2357708447.168614,
+      "revenue_pct": 26.19676052409582,
+      "stores": 23,
+      "customers": 198505,
+      "transactions": 6323197,
+      "revenue_per_store": 102509062.92037451
+    },
+    "East": {
+      "revenue": 2315932165.614276,
+      "revenue_pct": 25.73257961793651,
+      "stores": 23,
+      "customers": 198375,
+      "transactions": 6309030,
+      "revenue_per_store": 100692702.8527946
+    },
+    "Central": {
+      "revenue": 1818335815.3980706,
+      "revenue_pct": 20.20373128220087,
+      "stores": 16,
+      "customers": 195096,
+      "transactions": 4841587,
+      "revenue_per_store": 113645988.46237941
+    },
+    "South": {
+      "revenue": 1790572892.0996475,
+      "revenue_pct": 19.895254356662832,
+      "stores": 19,
+      "customers": 195157,
+      "transactions": 4843843,
+      "revenue_per_store": 94240678.53156039
+    },
+    "West": {
+      "revenue": 717450679.7193772,
+      "revenue_pct": 7.971674219104225,
+      "stores": 8,
+      "customers": 155712,
+      "transactions": 1950573,
+      "revenue_per_store": 89681334.96492215
+    }
+  },
+  "channel_performance": {
+    "delivery_method": {
+      "Click & Collect": 449545666.5014423,
+      "Home Delivery": 1797213305.6786275,
+      "In-store": 6753241027.819916
+    },
+    "payment_method": {
+      "Card": 2250408460.642071,
+      "Cash": 1351585453.65109,
+      "Credit": 449054954.8947156,
+      "UPI": 4051951285.6447363,
+      "Wallet": 896999845.1673728
+    },
+    "organic_vs_nonorganic": {
+      "organic_revenue": 2060746848.7859786,
+      "organic_pct": 22.89718720873319,
+      "non_organic_revenue": 6939253151.2140045,
+      "non_organic_pct": 77.10281279126704
+    }
+  },
+  "time_based_patterns": {
+    "weekend_vs_weekday": {
+      "weekend_revenue": 2225494834.97033,
+      "weekend_pct": 24.72772038855933,
+      "weekday_revenue": 6774505165.029648,
+      "weekday_pct": 75.27227961144085
+    },
+    "seasonal": {
+      "Winter": 3737014393.634822,
+      "Monsoon": 2277014877.823563,
+      "Summer": 1500271254.9660728,
+      "Spring": 1485699473.5755277
+    },
+    "time_slot": {
+      "Evening (4-9 PM)": 3927372249.507506,
+      "Morning (9-12 PM)": 1835619734.9464102,
+      "Afternoon (12-4 PM)": 1368664793.8629167,
+      "Early Morning (6-9 AM)": 952156849.7578367,
+      "Night (9-11 PM)": 916186371.9253159
+    },
+    "monthly_trends": [
+      {
+        "year_month": "2022-01",
+        "total_amount": 389646702.5700234,
+        "transaction_id": 1015541
+      },
+      {
+        "year_month": "2022-02",
+        "total_amount": 357881148.6896185,
+        "transaction_id": 935391
+      },
+      {
+        "year_month": "2022-03",
+        "total_amount": 385402530.7028756,
+        "transaction_id": 1035479
+      },
+      {
+        "year_month": "2022-04",
+        "total_amount": 369384564.2462913,
+        "transaction_id": 993730
+      },
+      {
+        "year_month": "2022-05",
+        "total_amount": 380529446.4274407,
+        "transaction_id": 1022430
+      },
+      {
+        "year_month": "2022-06",
+        "total_amount": 374589833.6258995,
+        "transaction_id": 1008140
+      },
+      {
+        "year_month": "2022-07",
+        "total_amount": 390186905.9611231,
+        "transaction_id": 1032756
+      },
+      {
+        "year_month": "2022-08",
+        "total_amount": 384527198.46366704,
+        "transaction_id": 1023422
+      },
+      {
+        "year_month": "2022-09",
+        "total_amount": 378516391.8994184,
+        "transaction_id": 1009806
+      },
+      {
+        "year_month": "2022-10",
+        "total_amount": 379475178.9712927,
+        "transaction_id": 1009969
+      },
+      {
+        "year_month": "2022-11",
+        "total_amount": 373186127.8285562,
+        "transaction_id": 995462
+      },
+      {
+        "year_month": "2022-12",
+        "total_amount": 388657042.86664355,
+        "transaction_id": 1038158
+      },
+      {
+        "year_month": "2023-01",
+        "total_amount": 383407151.7814911,
+        "transaction_id": 1029145
+      },
+      {
+        "year_month": "2023-02",
+        "total_amount": 350146743.9970795,
+        "transaction_id": 940111
+      },
+      {
+        "year_month": "2023-03",
+        "total_amount": 374672855.56398284,
+        "transaction_id": 1033424
+      },
+      {
+        "year_month": "2023-04",
+        "total_amount": 356239523.0623779,
+        "transaction_id": 981896
+      },
+      {
+        "year_month": "2023-05",
+        "total_amount": 376187996.96438533,
+        "transaction_id": 1034005
+      },
+      {
+        "year_month": "2023-06",
+        "total_amount": 368963977.94834733,
+        "transaction_id": 1018161
+      },
+      {
+        "year_month": "2023-07",
+        "total_amount": 380805398.30027735,
+        "transaction_id": 1034704
+      },
+      {
+        "year_month": "2023-08",
+        "total_amount": 380787677.5875422,
+        "transaction_id": 1038489
+      },
+      {
+        "year_month": "2023-09",
+        "total_amount": 362191305.6115348,
+        "transaction_id": 989448
+      },
+      {
+        "year_month": "2023-10",
+        "total_amount": 373273047.882247,
+        "transaction_id": 1016268
+      },
+      {
+        "year_month": "2023-11",
+        "total_amount": 368105937.85372394,
+        "transaction_id": 1009554
+      },
+      {
+        "year_month": "2023-12",
+        "total_amount": 373235311.194146,
+        "transaction_id": 1022741
+      }
+    ]
+  },
+  "operational_efficiency": {
+    "avg_checkout_duration_sec": 242.69023797780093,
+    "peak_hours": [
+      {
+        "hour": 20,
+        "transactions": 2188939
+      },
+      {
+        "hour": 19,
+        "transactions": 2185580
+      },
+      {
+        "hour": 18,
+        "transactions": 2180736
+      },
+      {
+        "hour": 16,
+        "transactions": 2180453
+      },
+      {
+        "hour": 17,
+        "transactions": 2179768
+      }
+    ],
+    "avg_transactions_per_employee": 48536.46,
+    "avg_revenue_per_employee": 17999999.99999997,
+    "avg_stock_level_at_sale": 1009.9600434807153
+  }
+}

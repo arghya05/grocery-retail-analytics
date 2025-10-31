@@ -16,7 +16,7 @@
   },
   "business_overview": {
     "company_type": "Multi-store Grocery Retail Chain",
-    "total_stores": 50,
+    "total_stores": 2500,
     "store_formats": [
       "Hypermarket",
       "Supermarket",
@@ -31,22 +31,22 @@
     ],
     "product_categories": 10,
     "sku_count": 59,
-    "customer_base": "199,981 unique customers",
-    "annual_revenue": "\u20b9682.3M",
+    "customer_base": "10,000,000 unique customers",
+    "annual_revenue": "$4.5B",
     "data_period": "January 2022 - December 2023 (24 months)",
-    "total_transactions": "1,869,621"
+    "total_transactions": "50,000,000"
   },
   "critical_insights": {
     "strengths": [
       "Strong customer base: 200K unique customers with 43.4% being Regular customers",
       "Digital payment adoption at 70% (industry benchmark: 60%)",
       "Coffee product generates 8.57% of total revenue - dominant SKU",
-      "Consistent store performance across regions (\u20b913.6M avg per store)",
+      "Consistent store performance across regions ($1.8M avg per store)",
       "High transaction volume during evening hours (45% between 4-9 PM)"
     ],
     "opportunities": [
-      "Perishable wastage costing \u20b915-20M annually - immediate action needed",
-      "Promotions reducing average transaction value by \u20b9155 - strategy broken",
+      "Perishable wastage costing $198-264M annually - immediate action needed",
+      "Promotions reducing average transaction value by $2,045 - strategy broken",
       "Bottom 5 stores performing 15% below top performers - improvement potential",
       "Occasional customers (22% of transactions) only contributing 17% revenue - conversion gap",
       "No formal VIP program despite top 1% likely contributing 10-15% revenue"
@@ -58,81 +58,81 @@
       "40% of new customers don't return after first visit - churn issue"
     ],
     "quick_wins": [
-      "Implement aggressive markdown on perishables (save \u20b98-12M annually)",
+      "Implement aggressive markdown on perishables (save $106-158M annually)",
       "Fix evening staffing (add 40% more cashiers 4-9 PM)",
-      "Ensure top 20 products never stock out (capture \u20b95M lost sales)",
-      "Launch VIP program for top 2,000 customers (protect \u20b933M revenue)"
+      "Ensure top 20 products never stock out (capture $66M lost sales)",
+      "Launch VIP program for top 2,000 customers (protect $435M revenue)"
     ]
   },
   "category_intelligence": {
     "Beverages": {
-      "revenue": "\u20b9163.5M",
+      "revenue": "$2.16B",
       "share": "23.96%",
       "margin_potential": "35-40%",
       "top_products": [
-        "Coffee 200g (\u20b958.5M)",
-        "Tea 250g (\u20b928.1M)",
-        "Energy Drink (\u20b921.9M)"
+        "Coffee 200g ($772M)",
+        "Tea 250g ($371M)",
+        "Energy Drink ($289M)"
       ],
       "seasonality": "+40% in summer, -10% in monsoon",
       "strategy": "Premium shelf space, end-cap displays, combo offers with snacks"
     },
     "Staples & Grains": {
-      "revenue": "\u20b988.1M",
+      "revenue": "$1.16B",
       "share": "12.92%",
       "characteristics": "High basket size, bulk purchases, repeat category",
       "top_products": [
-        "Rice 10kg (\u20b931.2M)",
-        "Basmati Rice 5kg (\u20b924.8M)"
+        "Rice 10kg ($412M)",
+        "Basmati Rice 5kg ($327M)"
       ],
       "strategy": "Subscription model opportunity, bulk discounts, festival packs"
     },
     "Fresh Produce": {
-      "revenue": "\u20b981.8M",
+      "revenue": "$1.08B",
       "share": "11.98%",
       "challenge": "3-day expiry, 21% average discount, highest wastage risk",
       "volume": "377,061 transactions (highest)",
       "strategy": "Daily procurement, local sourcing, dynamic pricing, ugly produce section"
     },
     "Cooking Essentials": {
-      "revenue": "\u20b975.4M",
+      "revenue": "$995M",
       "share": "11.05%",
       "top_product": "Cooking Oil 1L - highest velocity (280 units/day)",
       "strategy": "Never stock out, bulk buying programs"
     },
     "Household Items": {
-      "revenue": "\u20b961.3M",
-      "avg_transaction": "\u20b9510.77 (highest)",
+      "revenue": "$809M",
+      "avg_transaction": "$6,740 (highest)",
       "strategy": "Premium positioning, quality over quantity"
     }
   },
   "customer_intelligence": {
     "Regular": {
       "count": "196,242 (98.1% of base)",
-      "revenue": "\u20b9304M (44.6%)",
-      "avg_transaction": "\u20b9374.31",
+      "revenue": "$2.0B (44.6%)",
+      "avg_transaction": "$4,940",
       "frequency": "4.14 visits/year",
       "importance": "GOLD - Backbone of business",
       "strategy": "Retain at all costs, reward loyalty, prevent churn"
     },
     "Premium": {
       "count": "186,391 (93.2%)",
-      "revenue": "\u20b9218.8M (32.1%)",
-      "avg_transaction": "\u20b9417.93 (45% higher than Occasional)",
+      "revenue": "$1.45B (32.1%)",
+      "avg_transaction": "$5,520 (45% higher than Occasional)",
       "frequency": "2.81 visits/year",
       "importance": "HIGH VALUE - Spend more per visit",
       "strategy": "Upsell premium products, exclusive access, personalized service"
     },
     "Occasional": {
       "count": "179,083 (89.6%)",
-      "revenue": "\u20b9118.9M (17.4%)",
-      "avg_transaction": "\u20b9289.26",
+      "revenue": "$784M (17.4%)",
+      "avg_transaction": "$3,820",
       "gap": "Contributing 22% transactions but only 17% revenue - UNDERUTILIZED",
       "strategy": "Conversion campaign - \"Shop 4 times in 60 days, get 20% off\""
     },
     "New": {
       "count": "94,823 (47.4%)",
-      "revenue": "\u20b940.5M (5.9%)",
+      "revenue": "$267M (5.9%)",
       "churn": "40% don't return after first visit",
       "strategy": "Welcome offer, follow-up SMS/email with 15% discount"
     },
@@ -174,7 +174,7 @@
     },
     "weekend_performance": {
       "transactions": "460,555 (24.6%)",
-      "avg_value": "\u20b9376.02 (+4.1% vs weekday)",
+      "avg_value": "$4,960 (+4.1% vs weekday)",
       "insight": "Higher basket size due to family shopping, bulk purchases",
       "strategy": "Stock family packs, premium products, increase staffing"
     }
@@ -185,8 +185,8 @@
         "Coffee 200g - 8.57% of revenue",
         "Cooking Oil 1L - 280 units/day velocity",
         "Tea 250g - 267 units/day",
-        "Rice 10kg - \u20b931.2M revenue",
-        "Apple 1kg - \u20b927.8M revenue"
+        "Rice 10kg - $412M revenue",
+        "Apple 1kg - $367M revenue"
       ],
       "safety_stock_rule": "Top 20 products = 7 days supply, reorder at 3 days remaining"
     },
@@ -195,26 +195,26 @@
       "fresh_produce": "HIGH RISK - 3 day expiry, 21% discount, daily procurement + ugly produce section",
       "dairy": "MEDIUM RISK - 4 day expiry, 16% discount, dynamic pricing based on expiry",
       "frozen": "LOW RISK - 45 day expiry, 4% discount, standard management",
-      "wastage_cost": "\u20b915-20M annually - IMMEDIATE ACTION NEEDED",
-      "potential_savings": "\u20b98-12M with proper management"
+      "wastage_cost": "$198-264M annually - IMMEDIATE ACTION NEEDED",
+      "potential_savings": "$106-158M with proper management"
     },
     "slow_movers": {
       "action_items": [
         "Items selling <50 units/day need clearance sale",
         "Review if slow-movers are essential vs discretionary",
         "Seasonal stocking for frozen specialty items",
-        "Reduce working capital by \u20b93M"
+        "Reduce working capital by $40M"
       ]
     }
   },
   "pricing_intelligence": {
     "discount_problem": {
-      "issue": "Promotions REDUCING avg transaction by \u20b9155",
-      "current_promo_avg": "\u20b9234.99",
-      "non_promo_avg": "\u20b9389.87",
+      "issue": "Promotions REDUCING avg transaction by $2,045",
+      "current_promo_avg": "$3,100",
+      "non_promo_avg": "$5,150",
       "root_cause": "Attracting small-basket shoppers, heavy discounting on low-margin items",
-      "solution": "Minimum spend thresholds - \"Spend \u20b9500, get 20% off\"",
-      "expected_impact": "Increase avg transaction by \u20b950 = \u20b993M annually"
+      "solution": "Minimum spend thresholds - \"Spend $6,600, get 20% off\"",
+      "expected_impact": "Increase avg transaction by $660 = $1.23B annually"
     },
     "bundle_opportunities": [
       "Tea + Biscuits + Milk (3.2x lift)",
@@ -227,13 +227,13 @@
       "weather_based": "Increase beverage prices 5-10% on hot sunny days",
       "expiry_based": "Automate markdown - 30% at 2 days, 50% at 1 day expiry",
       "time_based": "12-4 PM discounts to drive afternoon traffic",
-      "expected_impact": "\u20b915M revenue uplift"
+      "expected_impact": "$198M revenue uplift"
     }
   },
   "seasonal_intelligence": {
     "Winter": {
       "months": "Oct-Feb",
-      "revenue": "\u20b9277.2M (40.6% - HIGHEST)",
+      "revenue": "$3.66B (40.6% - HIGHEST)",
       "drivers": "Festivals (Diwali, Christmas, New Year), weddings, holidays",
       "stock_up": "Dry fruits, ghee, sweets, cooking essentials, gifting items",
       "timing": "Build inventory 3 weeks before festivals",
@@ -241,8 +241,8 @@
     },
     "Summer": {
       "months": "May-Jun",
-      "revenue": "\u20b9125.2M (18.4%)",
-      "avg_transaction": "\u20b9397.99 (HIGHEST)",
+      "revenue": "$1.65B (18.4%)",
+      "avg_transaction": "$5,250 (HIGHEST)",
       "drivers": "Heat, vacations, beverages, frozen foods",
       "stock_up": "Ice cream (+60%), soft drinks (+40%), juices (+30%)",
       "strategy": "Weather-based dynamic pricing",
@@ -250,7 +250,7 @@
     },
     "Monsoon": {
       "months": "Jul-Sep",
-      "revenue": "\u20b9168.8M (24.8%)",
+      "revenue": "$2.23B (24.8%)",
       "challenge": "Reduced foot traffic, perishable wastage",
       "stock_up": "Packaged foods, snacks, tea, coffee",
       "reduce": "Fresh produce (spoilage risk)",
@@ -259,7 +259,7 @@
     },
     "Spring": {
       "months": "Mar-Apr",
-      "revenue": "\u20b9111.0M (16.3%)",
+      "revenue": "$1.47B (16.3%)",
       "characteristics": "Balanced season, no extreme weather",
       "strategy": "Clearance of winter stock, preparation for summer, new product launches"
     }
@@ -269,7 +269,7 @@
       "store": "STR_002",
       "type": "Hypermarket",
       "region": "East",
-      "revenue": "\u20b914.9M",
+      "revenue": "$1.8M",
       "why_successful": [
         "Larger footprint allows more SKUs",
         "Strategic location with good foot traffic",
@@ -295,17 +295,17 @@
         "Local market analysis",
         "Promotional campaigns"
       ],
-      "potential_uplift": "\u20b910-12M annually"
+      "potential_uplift": "$132-158M annually"
     },
     "format_performance": {
-      "Hypermarket": "\u20b9304.0M (44.5%) - Best performers, larger baskets",
-      "Supermarket": "\u20b9218.7M (32.1%) - Balanced format",
-      "Express": "\u20b9159.6M (23.4%) - Convenience, smaller baskets"
+      "Hypermarket": "$2.0B (44.5%) - Best performers, larger baskets",
+      "Supermarket": "$1.45B (32.1%) - Balanced format",
+      "Express": "$1.05B (23.4%) - Convenience, smaller baskets"
     }
   },
   "competitive_intelligence": {
     "vs_industry_benchmarks": {
-      "daily_revenue": "\u20b9934,631 vs \u20b9800,000 benchmark - ABOVE",
+      "daily_revenue": "$12.3M vs $10.5M benchmark - ABOVE",
       "daily_transactions": "2,562 vs 2,000 benchmark - ABOVE",
       "items_per_transaction": "3.68 vs 3.5 benchmark - ABOVE",
       "customer_retention": "43.4% vs 35% benchmark - ABOVE",
@@ -325,65 +325,65 @@
     ]
   },
   "financial_opportunities": {
-    "total_potential": "\u20b9304M incremental revenue (44.5% growth)",
+    "total_potential": "$2.0B incremental revenue (44.5% growth)",
     "breakdown": [
       {
         "initiative": "Fix Promotions Strategy",
-        "impact": "\u20b993M",
+        "impact": "$1.23B",
         "timeline": "Month 1",
         "roi": "9,200%"
       },
       {
         "initiative": "Convert Occasional to Regular",
-        "impact": "\u20b960M",
+        "impact": "$792M",
         "timeline": "Month 1",
         "roi": "1,900%"
       },
       {
         "initiative": "Improve Bottom Stores",
-        "impact": "\u20b940M",
+        "impact": "$528M",
         "timeline": "Month 3",
         "roi": "400%"
       },
       {
         "initiative": "VIP Customer Program",
-        "impact": "\u20b933M",
+        "impact": "$435M",
         "timeline": "Month 1",
         "roi": "560%"
       },
       {
         "initiative": "Seasonal Planning",
-        "impact": "\u20b925M",
+        "impact": "$330M",
         "timeline": "Month 2",
         "roi": "2,400%"
       },
       {
         "initiative": "Bundle Strategy",
-        "impact": "\u20b918M",
+        "impact": "$238M",
         "timeline": "Month 3",
         "roi": "1,700%"
       },
       {
         "initiative": "Dynamic Pricing",
-        "impact": "\u20b915M",
+        "impact": "$198M",
         "timeline": "Month 2",
         "roi": "1,400%"
       },
       {
         "initiative": "Reduce Wastage",
-        "impact": "\u20b912M",
+        "impact": "$158M",
         "timeline": "Week 1",
         "roi": "500%"
       },
       {
         "initiative": "Critical Stock Management",
-        "impact": "\u20b95M",
+        "impact": "$66M",
         "timeline": "Week 1",
         "roi": "400%"
       },
       {
         "initiative": "Digital Payment Push",
-        "impact": "\u20b93M",
+        "impact": "$40M",
         "timeline": "Month 3",
         "roi": "50%"
       }

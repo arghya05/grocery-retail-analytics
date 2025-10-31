@@ -1,9 +1,0 @@
-{
-  "mcpServers": {
-    "grocery-analytics": {
-      "command": "python",
-      "args": ["/Users/arghya.mukherjee/Downloads/cursor/sd/grocery_mcp_server.py"],
-      "env": {}
-    }
-  }
-}

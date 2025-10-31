@@ -28,3 +28,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Large dataset files
+grocery_dataset.csv
+metadata/grocery_dataset.csv
+metadata/grocery_dataset_backup.csv
+metadata/grocery_dataset_supply_chain_backup.csv
+*.csv

@@ -1,0 +1,78 @@
+{
+  "financial_performance": [
+    {
+      "question": "What's our current revenue run rate?",
+      "answer": "$9.0B over 2 years = $4.5B annual run rate. 2023 was $4.45B (down 2.3% YoY). Q4 2023 run rate: $4.46B annualized.",
+      "data_source": "revenue_by_quarter",
+      "drill_down": "See monthly_trends in dashboard for detailed breakdown"
+    },
+    {
+      "question": "Which stores are our top performers?",
+      "answer": "North region stores dominate: STR_000017 ($185M), STR_000009 ($185M), STR_000010 ($184M). All Hypermarket format.",
+      "data_source": "revenue_by_store.csv",
+      "drill_down": "See store_insights_top_50.csv for full analysis"
+    },
+    {
+      "question": "What's driving our margin?",
+      "answer": "Gross margin at -34.8%. Average discount 9.5%. Promotional transactions at 16.1% of total.",
+      "data_source": "profitability_indicators",
+      "drill_down": "Opportunity: Private label can add 2-3pp to margin"
+    }
+  ],
+  "customer_strategy": [
+    {
+      "question": "Who are our best customers?",
+      "answer": "Premium segment: 60K customers generating $2.66B (30% of revenue). Average LTV: $44K. Regular customers: 87K generating $3.97B (44%).",
+      "data_source": "customer_segment_deep_dive.md",
+      "drill_down": "See detailed profiles by segment"
+    },
+    {
+      "question": "Why is customer retention important?",
+      "answer": "Current retention: 77%. Industry standard: 85%. 5% retention improvement = $450M annual revenue. 37K customers at churn risk represent $1.66B revenue at risk.",
+      "data_source": "customer_churn_risk.csv",
+      "drill_down": "VIP program can improve retention to 82%+ (Premium segment)"
+    },
+    {
+      "question": "What do customers want?",
+      "answer": "Top categories: Fresh Produce (17%), Beverages (16%), Household (13%). 21% buy organic. 20% use home delivery. Preferred time: Evening (35%), Morning (32%).",
+      "data_source": "customer_segment_deep_dive.md",
+      "drill_down": "Segment preferences vary significantly - see detailed breakdown"
+    }
+  ],
+  "operational_excellence": [
+    {
+      "question": "Where are we inefficient?",
+      "answer": "Checkout time: 112 sec (target: 90 sec). Low loyalty engagement: 17% (target: 45%). Inventory management: reactive vs predictive.",
+      "data_source": "operational_efficiency",
+      "drill_down": "See prescriptive_recommendations.md for improvement plans"
+    },
+    {
+      "question": "Which regions should we expand?",
+      "answer": "North region: $2.36B revenue (26%), 13 stores, $182M/store. East region: $2.32B (26%), 13 stores, $178M/store. Both outperform West: $717M (8%), 4 stores, $179M/store.",
+      "data_source": "regional_market_analysis.md",
+      "drill_down": "North region recommended for 5 new stores"
+    }
+  ],
+  "competitive_position": [
+    {
+      "question": "How do we compare to competitors?",
+      "answer": "Revenue/Store: $176M (industry: $150-200M - ON TARGET). Loyalty: 17% (industry: 40-50% - BELOW). Private label: 0% (industry: 20-30% - MISSING). Organic mix: 21% (industry: 25-30% - CLOSE).",
+      "data_source": "ceo_executive_dashboard.json",
+      "drill_down": "Competitive gaps = opportunities ($2.35B potential)"
+    }
+  ],
+  "growth_strategy": [
+    {
+      "question": "What's our growth plan?",
+      "answer": "5-pillar strategy: (1) AI personalization (+$720M), (2) Private label (+$225M margin), (3) Regional expansion (+$826M), (4) VIP program (+$266M), (5) Operational efficiency (+$180M). Total impact: +$2.2B annually.",
+      "data_source": "prescriptive_recommendations.md",
+      "drill_down": "17 total initiatives, $37M investment, 6,200% ROI"
+    },
+    {
+      "question": "What are the risks?",
+      "answer": "Critical: Revenue decline continuation ($500M risk), customer churn ($800M risk), competitive pressure ($300M risk). Total at-risk revenue: $1.6B. Mitigation: $31M investment portfolio addresses all three.",
+      "data_source": "board_meeting_briefing_pack.md",
+      "drill_down": "See Risk Dashboard section"
+    }
+  ]
+}

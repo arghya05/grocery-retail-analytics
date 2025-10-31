@@ -52,7 +52,7 @@ Q9: When am I losing customers due to poor service?
     → Emotion: Competitive fear
 
 Q10: What's my cash addiction costing me?
-    → Discovery: 18% cash = ₹200K+ annual waste
+    → Discovery: 18% cash = $0.1B+ annual waste
     → Emotion: Annoyance
 
 
@@ -84,7 +84,7 @@ Q15: What do top stores do that I don't?
     → Emotion: Hope (I can do this!)
 
 Q16: If I fixed everything, would it matter?
-    → Discovery: ₹4.5M opportunity = 33% growth, beating #1 store
+    → Discovery: $0.1B opportunity = 33% growth, beating #1 store
     → Emotion: DETERMINATION
 
 

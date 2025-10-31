@@ -1,0 +1,13 @@
+{
+  "total_rows": 24268230,
+  "total_columns": 39,
+  "total_transactions": 2000000,
+  "total_revenue": 8999999999.999962,
+  "date_range_start": "2022-01-01 06:02:10",
+  "date_range_end": "2023-12-31 22:59:22",
+  "unique_stores": 51,
+  "unique_customers": 200001,
+  "unique_products": 59,
+  "unique_employees": 500,
+  "total_quantity_sold": 178740026
+}

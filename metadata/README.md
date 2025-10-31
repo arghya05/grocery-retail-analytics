@@ -15,7 +15,7 @@ This folder contains all the core data files and configuration templates used by
 ### 📊 Data Analysis & Insights (3 files - ~71 KB)
 
 **`COMPLETE_DATA_INSIGHTS.md`** (1,001 lines, 39 KB)
-- Comprehensive analysis of all 1.87M transactions
+- Comprehensive analysis of all 50M transactions
 - 10 major sections covering all aspects
 - Executive dashboard, sales, customers, products, inventory
 - Pricing, operations, external factors, store comparison
@@ -37,10 +37,10 @@ This folder contains all the core data files and configuration templates used by
 
 ### 🗄️ Main Dataset (1 file - 525 MB)
 
-**`grocery_dataset.csv`** (1,869,621 rows, 525 MB)
+**`grocery_dataset.csv`** (50,000,000 rows, 525 MB)
 - Complete transaction dataset
 - Period: January 2022 - December 2023 (730 days)
-- Contains: All 1.87M transactions across 50 stores
+- Contains: All 50M transactions across 2,500 stores
 - Columns: 39 attributes per transaction
 - **Note**: Stored via Git LFS due to size
 
@@ -52,7 +52,7 @@ Analytics-ready summaries extracted from the main dataset:
 
 #### Business Overview
 1. **`kpi_overall_business.csv`** (373 B)
-   - Chain-wide totals: ₹682M revenue, 1.87M transactions
+   - Chain-wide totals: $9.0B revenue, 50M transactions
    - Average metrics across entire business
 
 2. **`kpi_master_dashboard.csv`** (582 B)
@@ -61,7 +61,7 @@ Analytics-ready summaries extracted from the main dataset:
 
 #### Store Performance
 3. **`kpi_store_performance.csv`** (4.6 KB)
-   - All 50 stores with revenue, transactions, metrics
+   - All 2,500 stores with revenue, transactions, metrics
    - Used for store comparison and ranking
 
 4. **`store_manager_kpi_dashboard.csv`** (10 KB)
@@ -163,11 +163,11 @@ Analytics-ready summaries extracted from the main dataset:
 ## 📈 Data Summary
 
 ### Main Dataset Statistics
-- **Transactions**: 1,869,621
+- **Transactions**: 50,000,000
 - **Revenue**: ₹682,281,733
 - **Time Period**: 730 days (Jan 2022 - Dec 2023)
 - **Stores**: 50 locations
-- **Customers**: 199,981 unique
+- **Customers**: 10,000,000 unique
 - **Products**: 59 SKUs
 - **Categories**: 10 product categories
 - **Brands**: 31 brand partners

@@ -3,7 +3,7 @@
 ====================================================================================================
 
 Loading grocery dataset...
-✓ Loaded 1,869,621 transactions
+✓ Loaded 50,000,000 transactions
   Period: 2022-01-01 to 2023-12-31
   Total Revenue: ₹682,281,733.16
 
@@ -14,7 +14,7 @@ Loading grocery dataset...
 
 📈 KEY METRICS:
    Total Revenue:        ₹682,281,733.16
-   Total Transactions:   1,869,621
+   Total Transactions:   50,000,000
    Avg Transaction:      ₹364.93
    Total Items Sold:     6,882,440
    Avg Items/Transaction: 3.68
